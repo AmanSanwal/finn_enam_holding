@@ -1,0 +1,1060 @@
+{
+ "symbol": "EQUITASBNK",
+ "source_url": "https://www.screener.in/company/EQUITASBNK/consolidated/",
+ "consolidated": true,
+ "fetched_at": "2026-11-16T13:57:53",
+ "name": "Equitas Small Finance Bank Ltd",
+ "about": "Equitas Small Finance Bank Ltd before acquiring small bank license, operated as a wholly-owned subsidiary of Equitas Holding Ltd. The holding entity started its operations in 2007 in the microfinance segment & diversified into vehicle & housing finance in 2011. Also entered into SME & LAP in 2013. It merged with the other two subsidiaries named Equitas Microfinance Ltd & Equitas Housing Finance Ltd & formed a bank. After receiving a license in Sept 2016 the company commenced operations under Equitas small finance Bank. [1] [2]",
+ "key_points": "Geographical Diversification - Q2 FY27 [1] [2] Present in 16 states & 2 UTs with 1,064 branches , 402 ATMs and 372 BC banking outlets. Tamil Nadu (347), Maharashtra (161) and Karnataka (136) have the highest number of branches. Tamil Nadu & Puducherry contribute the largest share of business (Advances 43% , Deposits 25% ), followed by Maharashtra (Advances 16%, Deposits 20%) and Karnataka (Advances 12%, Deposits 7%).",
+ "bse_code": "543243",
+ "nse_symbol": "EQUITASBNK",
+ "website": "http://www.equitasbank.com",
+ "ratios": {
+  "Market Cap": null,
+  "Current Price": null,
+  "High / Low": [
+   null,
+   null
+  ],
+  "Stock P/E": null,
+  "Book Value": null,
+  "Dividend Yield": null,
+  "ROCE": null,
+  "ROE": null,
+  "Face Value": null
+ },
+ "quarters": {
+  "periods": [
+   "Sep 2023",
+   "Dec 2023",
+   "Mar 2024",
+   "Jun 2024",
+   "Sep 2024",
+   "Dec 2024",
+   "Mar 2025",
+   "Jun 2025",
+   "Sep 2025",
+   "Dec 2025",
+   "Mar 2026",
+   "Jun 2026",
+   "Sep 2026"
+  ],
+  "rows": {
+   "Revenue": [
+    1359.0,
+    1429.0,
+    1445.0,
+    1501.0,
+    1555.0,
+    1612.0,
+    1644.0,
+    1649.0,
+    1617.0,
+    1692.0,
+    1836.0,
+    1960.0,
+    2066.0
+   ],
+   "YoY Revenue growth": [
+    36.0,
+    34.0,
+    25.0,
+    20.0,
+    14.0,
+    13.0,
+    14.0,
+    10.0,
+    4.0,
+    5.0,
+    12.0,
+    19.0,
+    28.0
+   ],
+   "Interest": [
+    593.0,
+    644.0,
+    659.0,
+    699.0,
+    753.0,
+    794.0,
+    815.0,
+    863.0,
+    844.0,
+    840.0,
+    856.0,
+    931.0,
+    1040.0
+   ],
+   "Expenses": [
+    680.0,
+    715.0,
+    758.0,
+    974.0,
+    1021.0,
+    967.0,
+    1002.0,
+    1375.0,
+    969.0,
+    1027.0,
+    965.0,
+    1041.0,
+    1030.0
+   ],
+   "Financing Profit": [
+    86.0,
+    70.0,
+    28.0,
+    -173.0,
+    -219.0,
+    -149.0,
+    -172.0,
+    -589.0,
+    -195.0,
+    -176.0,
+    15.0,
+    -11.0,
+    -4.0
+   ],
+   "Financing Margin %": [
+    6.0,
+    5.0,
+    2.0,
+    -12.0,
+    -14.0,
+    -9.0,
+    -10.0,
+    -36.0,
+    -12.0,
+    -10.0,
+    1.0,
+    -1.0,
+    -0.0
+   ],
+   "Other Income": [
+    181.0,
+    205.0,
+    240.0,
+    209.0,
+    239.0,
+    238.0,
+    225.0,
+    292.0,
+    229.0,
+    289.0,
+    263.0,
+    255.0,
+    292.0
+   ],
+   "Depreciation": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "Profit before tax": [
+    267.0,
+    276.0,
+    268.0,
+    36.0,
+    20.0,
+    90.0,
+    53.0,
+    -297.0,
+    34.0,
+    114.0,
+    278.0,
+    244.0,
+    287.0
+   ],
+   "Tax %": [
+    26.0,
+    27.0,
+    23.0,
+    28.0,
+    36.0,
+    26.0,
+    21.0,
+    -25.0,
+    28.0,
+    21.0,
+    24.0,
+    25.0,
+    24.0
+   ],
+   "Net Profit": [
+    198.0,
+    202.0,
+    208.0,
+    26.0,
+    13.0,
+    66.0,
+    42.0,
+    -224.0,
+    24.0,
+    90.0,
+    213.0,
+    184.0,
+    218.0
+   ],
+   "EPS in Rs": [
+    1.77,
+    1.79,
+    1.83,
+    0.23,
+    0.11,
+    0.58,
+    0.37,
+    -1.96,
+    0.21,
+    0.79,
+    1.86,
+    1.61,
+    1.91
+   ],
+   "Gross NPA %": [
+    2.27,
+    2.53,
+    2.61,
+    2.73,
+    2.95,
+    2.97,
+    2.89,
+    2.92,
+    2.92,
+    2.75,
+    2.6,
+    2.42,
+    2.29
+   ],
+   "Net NPA %": [
+    0.97,
+    1.13,
+    1.17,
+    0.83,
+    0.97,
+    0.96,
+    0.98,
+    0.98,
+    0.98,
+    0.92,
+    0.72,
+    0.71,
+    0.7
+   ]
+  },
+  "pdfs": [
+   "https://www.screener.in/company/source/quarter/1274807/9/2023/",
+   "https://www.screener.in/company/source/quarter/1274807/12/2023/",
+   "https://www.screener.in/company/source/quarter/1274807/3/2024/",
+   "https://www.screener.in/company/source/quarter/1274807/6/2024/",
+   "https://www.screener.in/company/source/quarter/1274807/9/2024/",
+   "https://www.screener.in/company/source/quarter/1274807/12/2024/",
+   "https://www.screener.in/company/source/quarter/1274807/3/2025/",
+   "https://www.screener.in/company/source/quarter/1274807/6/2025/",
+   "https://www.screener.in/company/source/quarter/1274807/9/2025/",
+   "https://www.screener.in/company/source/quarter/1274807/12/2025/",
+   "https://www.screener.in/company/source/quarter/1274807/3/2026/",
+   "https://www.screener.in/company/source/quarter/1274807/6/2026/",
+   "https://www.screener.in/company/source/quarter/1274807/9/2026/"
+  ]
+ },
+ "annual": {
+  "periods": [
+   "Mar 2012",
+   "Mar 2016",
+   "Mar 2017",
+   "Mar 2018",
+   "Mar 2019",
+   "Mar 2020",
+   "Mar 2021",
+   "Mar 2022",
+   "Mar 2023",
+   "Mar 2024",
+   "Mar 2025",
+   "Mar 2026"
+  ],
+  "rows": {
+   "Revenue": [
+    6.0,
+    408.0,
+    981.0,
+    1543.0,
+    2112.0,
+    2645.0,
+    3194.0,
+    3460.0,
+    4162.0,
+    5486.0,
+    6312.0,
+    6794.0
+   ],
+   "Revenue growth": [
+    30950.0,
+    null,
+    140.0,
+    57.0,
+    37.0,
+    25.0,
+    21.0,
+    8.0,
+    20.0,
+    32.0,
+    15.0,
+    8.0
+   ],
+   "Interest": [
+    2.0,
+    159.0,
+    460.0,
+    684.0,
+    964.0,
+    1150.0,
+    1396.0,
+    1421.0,
+    1617.0,
+    2407.0,
+    3060.0,
+    3403.0
+   ],
+   "Expenses": [
+    17.0,
+    230.0,
+    561.0,
+    964.0,
+    1015.0,
+    1304.0,
+    1628.0,
+    2123.0,
+    2361.0,
+    2681.0,
+    3816.0,
+    4170.0
+   ],
+   "Financing Profit": [
+    -13.0,
+    19.0,
+    -40.0,
+    -105.0,
+    133.0,
+    191.0,
+    170.0,
+    -84.0,
+    184.0,
+    399.0,
+    -564.0,
+    -779.0
+   ],
+   "Financing Margin %": [
+    -208.0,
+    5.0,
+    -4.0,
+    -7.0,
+    6.0,
+    7.0,
+    5.0,
+    -2.0,
+    4.0,
+    7.0,
+    -9.0,
+    -11.0
+   ],
+   "Other Income": [
+    0.0,
+    71.0,
+    233.0,
+    241.0,
+    283.0,
+    282.0,
+    418.0,
+    538.0,
+    670.0,
+    799.0,
+    911.0,
+    1074.0
+   ],
+   "Depreciation": [
+    0.0,
+    5.0,
+    32.0,
+    88.0,
+    92.0,
+    96.0,
+    76.0,
+    75.0,
+    85.0,
+    134.0,
+    148.0,
+    167.0
+   ],
+   "Profit before tax": [
+    -13.0,
+    85.0,
+    161.0,
+    49.0,
+    324.0,
+    377.0,
+    511.0,
+    378.0,
+    769.0,
+    1063.0,
+    199.0,
+    128.0
+   ],
+   "Tax %": [
+    0.0,
+    0.0,
+    36.0,
+    34.0,
+    35.0,
+    35.0,
+    25.0,
+    26.0,
+    25.0,
+    25.0,
+    26.0,
+    20.0
+   ],
+   "Net Profit": [
+    -13.0,
+    85.0,
+    104.0,
+    32.0,
+    211.0,
+    244.0,
+    384.0,
+    281.0,
+    574.0,
+    799.0,
+    147.0,
+    103.0
+   ],
+   "EPS in Rs": [
+    -0.12,
+    0.81,
+    0.99,
+    0.3,
+    2.0,
+    2.31,
+    3.37,
+    2.24,
+    5.16,
+    7.04,
+    1.29,
+    0.9
+   ],
+   "Dividend Payout %": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    14.0,
+    78.0,
+    0.0
+   ]
+  },
+  "pdfs": []
+ },
+ "balance_sheet": {
+  "periods": [
+   "Mar 2012",
+   "Mar 2016",
+   "Mar 2017",
+   "Mar 2018",
+   "Mar 2019",
+   "Mar 2020",
+   "Mar 2021",
+   "Mar 2022",
+   "Mar 2023",
+   "Mar 2024",
+   "Mar 2025",
+   "Mar 2026",
+   "Sep 2026"
+  ],
+  "rows": {
+   "Equity Capital": [
+    61.0,
+    423.0,
+    1006.0,
+    1006.0,
+    1006.0,
+    1053.0,
+    1139.0,
+    1252.0,
+    1111.0,
+    1135.0,
+    1140.0,
+    1141.0,
+    1144.0
+   ],
+   "Reserves": [
+    -13.0,
+    288.0,
+    1006.0,
+    1038.0,
+    1248.0,
+    1691.0,
+    2257.0,
+    2994.0,
+    4047.0,
+    4834.0,
+    4933.0,
+    4984.0,
+    5409.0
+   ],
+   "Deposits": [
+    0.0,
+    null,
+    1921.0,
+    5604.0,
+    9007.0,
+    10788.0,
+    16392.0,
+    18951.0,
+    25348.0,
+    36129.0,
+    43102.0,
+    46533.0,
+    52483.0
+   ],
+   "Borrowing": [
+    44.0,
+    1638.0,
+    4779.0,
+    5177.0,
+    3973.0,
+    5135.0,
+    4165.0,
+    2616.0,
+    2974.0,
+    1788.0,
+    2137.0,
+    5773.0,
+    6886.0
+   ],
+   "Other Liabilities": [
+    14.0,
+    65.0,
+    533.0,
+    485.0,
+    529.0,
+    628.0,
+    755.0,
+    1134.0,
+    1478.0,
+    1418.0,
+    1524.0,
+    2180.0,
+    2525.0
+   ],
+   "Total Liabilities": [
+    105.0,
+    2414.0,
+    9245.0,
+    13310.0,
+    15763.0,
+    19296.0,
+    24708.0,
+    26948.0,
+    34958.0,
+    45304.0,
+    52836.0,
+    60610.0,
+    68446.0
+   ],
+   "Fixed Assets": [
+    4.0,
+    11.0,
+    274.0,
+    280.0,
+    236.0,
+    210.0,
+    184.0,
+    189.0,
+    338.0,
+    537.0,
+    531.0,
+    527.0,
+    975.0
+   ],
+   "CWIP": [
+    0.0,
+    0.0,
+    15.0,
+    1.0,
+    2.0,
+    2.0,
+    1.0,
+    11.0,
+    41.0,
+    68.0,
+    165.0,
+    189.0,
+    0.0
+   ],
+   "Investments": [
+    0.0,
+    0.0,
+    1890.0,
+    3857.0,
+    2344.0,
+    2343.0,
+    3705.0,
+    4450.0,
+    6665.0,
+    9065.0,
+    9289.0,
+    10149.0,
+    12246.0
+   ],
+   "Other Assets": [
+    102.0,
+    2403.0,
+    7066.0,
+    9172.0,
+    13181.0,
+    16740.0,
+    20818.0,
+    22297.0,
+    27914.0,
+    35634.0,
+    42851.0,
+    49746.0,
+    55225.0
+   ],
+   "Total Assets": [
+    105.0,
+    2414.0,
+    9245.0,
+    13310.0,
+    15763.0,
+    19296.0,
+    24708.0,
+    26948.0,
+    34958.0,
+    45304.0,
+    52836.0,
+    60610.0,
+    68446.0
+   ]
+  },
+  "pdfs": []
+ },
+ "cash_flow": {
+  "periods": [
+   "Mar 2012",
+   "Mar 2016",
+   "Mar 2017",
+   "Mar 2018",
+   "Mar 2019",
+   "Mar 2020",
+   "Mar 2021",
+   "Mar 2022",
+   "Mar 2023",
+   "Mar 2024",
+   "Mar 2025",
+   "Mar 2026"
+  ],
+  "rows": {
+   "Cash from Operating Activity": [
+    -101.0,
+    -336.0,
+    1334.0,
+    213.0,
+    1799.0,
+    440.0,
+    2044.0,
+    159.0,
+    -998.0,
+    3834.0,
+    1937.0,
+    -3316.0
+   ],
+   "Cash from Investing Activity": [
+    -3.0,
+    -9.0,
+    -405.0,
+    -11.0,
+    -7.0,
+    -72.0,
+    -43.0,
+    -89.0,
+    49.0,
+    -360.0,
+    -239.0,
+    -185.0
+   ],
+   "Cash from Financing Activity": [
+    108.0,
+    168.0,
+    -563.0,
+    -28.0,
+    -1706.0,
+    908.0,
+    -1154.0,
+    -1317.0,
+    60.0,
+    -1210.0,
+    259.0,
+    3641.0
+   ],
+   "Net Cash Flow": [
+    4.0,
+    -177.0,
+    366.0,
+    173.0,
+    86.0,
+    1276.0,
+    847.0,
+    -1246.0,
+    -888.0,
+    2264.0,
+    1957.0,
+    140.0
+   ],
+   "Free Cash Flow": [
+    -106.0,
+    -344.0,
+    1041.0,
+    133.0,
+    1751.0,
+    367.0,
+    1995.0,
+    68.0,
+    -1261.0,
+    3474.0,
+    1698.0,
+    -3501.0
+   ]
+  },
+  "pdfs": []
+ },
+ "efficiency": {
+  "periods": [
+   "Mar 2012",
+   "Mar 2016",
+   "Mar 2017",
+   "Mar 2018",
+   "Mar 2019",
+   "Mar 2020",
+   "Mar 2021",
+   "Mar 2022",
+   "Mar 2023",
+   "Mar 2024",
+   "Mar 2025",
+   "Mar 2026"
+  ],
+  "rows": {
+   "ROE %": [
+    -49.0,
+    12.0,
+    8.0,
+    2.0,
+    10.0,
+    10.0,
+    13.0,
+    7.0,
+    12.0,
+    14.0,
+    2.0,
+    2.0
+   ]
+  },
+  "pdfs": []
+ },
+ "shareholding": {
+  "periods": [
+   "Dec 2023",
+   "Mar 2024",
+   "Jun 2024",
+   "Sep 2024",
+   "Dec 2024",
+   "Mar 2025",
+   "Jun 2025",
+   "Sep 2025",
+   "Dec 2025",
+   "Mar 2026",
+   "Jun 2026",
+   "Sep 2026"
+  ],
+  "rows": {
+   "FIIs": [
+    19.61,
+    19.5,
+    19.65,
+    16.91,
+    15.42,
+    16.47,
+    16.3,
+    15.67,
+    14.62,
+    14.74,
+    15.7,
+    15.8
+   ],
+   "DIIs": [
+    45.64,
+    45.21,
+    45.42,
+    43.66,
+    42.62,
+    42.7,
+    47.13,
+    48.2,
+    49.96,
+    50.87,
+    51.25,
+    52.25
+   ],
+   "Public": [
+    34.74,
+    35.28,
+    34.93,
+    39.42,
+    41.96,
+    40.82,
+    36.57,
+    36.13,
+    35.42,
+    34.38,
+    33.04,
+    31.95
+   ],
+   "No. of Shareholders": [
+    361709.0,
+    372304.0,
+    381682.0,
+    444544.0,
+    457362.0,
+    448261.0,
+    433820.0,
+    418050.0,
+    405850.0,
+    385971.0,
+    369493.0,
+    355601.0
+   ]
+  },
+  "pdfs": []
+ },
+ "documents": {
+  "announcements": [
+   {
+    "title": "Change in Management",
+    "detail": "Equitas Small Finance Bank appoints Dheeraj Kumar Gaur as CRO-designate effective November 16, 2026.",
+    "ts": "2026-11-16T15:57:22+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a973711c-99a5-4651-aea5-555fd6b2a169.pdf"
+   },
+   {
+    "title": "Analyst / Investor Meet - Outcome",
+    "detail": "Audio recording of management update call held on November 12, 2026 shared; transcript due within five working days.",
+    "ts": "2026-11-12T17:50:56+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1ef7249b-3e8e-44e7-96c4-3ace7151c0db.pdf"
+   },
+   {
+    "title": "Non-Deal Roadshow To Be Attended By The Representatives Of The Bank",
+    "detail": "Equitas Small Finance Bank schedules a November 17, 2026 non-deal roadshow in Mumbai.",
+    "ts": "2026-11-12T16:13:41+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=18ca7b6f-40c9-4014-aa15-d5c427da1b50.pdf"
+   },
+   {
+    "title": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "detail": "12 Nov",
+    "ts": "2026-11-12T15:32:19+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=B4277323_F5EB_4EED_804F_B74B8381E7C8_153212.pdf"
+   },
+   {
+    "title": "Investor Conferences To Be Attended By The Representatives Of The Bank",
+    "detail": "Equitas Small Finance Bank to attend investor conferences on November 16-17, 2026 in Mumbai.",
+    "ts": "2026-11-10T16:22:28+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6758ee06-6d4e-4d71-bd58-9eb7855dcecd.pdf"
+   }
+  ],
+  "annual_reports": [
+   {
+    "year": 2026,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7e204d32-2994-46da-8adc-550108558d24.pdf"
+   },
+   {
+    "year": 2025,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ac6b046f-1832-4060-9cc7-df3ac34aab25.pdf"
+   },
+   {
+    "year": 2024,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3cf3527c-fa9f-40e0-a12d-a48027ee6d98.pdf"
+   },
+   {
+    "year": 2023,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/71ee99b1-b548-4ecf-8d50-20fd656677db.pdf"
+   },
+   {
+    "year": 2022,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/543243/73294543243.pdf"
+   },
+   {
+    "year": 2021,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/543243/69027543243.pdf"
+   }
+  ],
+  "concalls": [
+   {
+    "period": "Nov 2026",
+    "transcript": null,
+    "ppt": null
+   },
+   {
+    "period": "Oct 2026",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=161c7c71-c716-46c1-aded-9cf011dd2329.pdf"
+   },
+   {
+    "period": "Aug 2026",
+    "transcript": "https://ir.equitas.bank.in/wp-content/uploads/2026/08/EquitasSFB-Earningscalltranscript_Q1FY27-1.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4742671a-7f7b-41d0-8322-6b528eb7735a.pdf"
+   },
+   {
+    "period": "Jun 2026",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=92d82469-e144-4496-bb11-4049567e6dc3.pdf"
+   },
+   {
+    "period": "May 2026",
+    "transcript": "https://ir.equitas.bank.in/wp-content/uploads/2026/05/EquitasSFB-Earningscalltranscript-Q4FY26.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c537f681-a228-4375-96dd-6f8c33a1ab6f.pdf"
+   },
+   {
+    "period": "Jan 2026",
+    "transcript": "https://ir.equitas.bank.in/wp-content/uploads/2026/02/ESFB_earningscalltranscriptQ3FY26-1.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1848db40-24cf-4a5a-955a-eed56327f740.pdf"
+   },
+   {
+    "period": "Nov 2025",
+    "transcript": "https://ir.equitas.bank.in/wp-content/uploads/2024/11/EquitasSFB-Earningscalltranscript-Q2FY25.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d4b1a4f6-5910-4320-8f93-860c0450b8ed.pdf"
+   },
+   {
+    "period": "Aug 2025",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2025/08/ESFB_EarningsCallTranscript_Q1FY26.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b9c73f90-7b01-4307-9f97-93ab2799d573.pdf"
+   },
+   {
+    "period": "May 2025",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2025/05/ESFB-Q4FY25-Earnings-call-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4467035-e2d9-44f4-8d87-c918fe96e66c.pdf"
+   },
+   {
+    "period": "Feb 2025",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2025/02/Equitas-SFB-earnings-call-transcript-Q3FY25.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a032b9e4-2932-467c-ac36-5130127e16d9.pdf"
+   },
+   {
+    "period": "Nov 2024",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2024/11/EquitasSFB-Earningscalltranscript-Q2FY25.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Nov 2024",
+    "transcript": "https://www.equitasbank.com/wp-content/uploads/2024/11/EquitasSFB-Earningscalltranscript-Q2FY25.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=16129dee-9c29-49f7-8484-71a7e43c652b.pdf"
+   },
+   {
+    "period": "Jul 2024",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2024/07/Equitas-Q1FY25-Earnings-Call-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e330d8ae-bee7-4c29-84b7-2c0b4d2cb278.pdf"
+   },
+   {
+    "period": "Apr 2024",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2024/04/EquitasSFB-EarningsCall-Transcript-Q4FY24.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=056b2a05-525c-4608-9f21-f9040397b837.pdf"
+   },
+   {
+    "period": "Jan 2024",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2024/01/EquitasBank-Earnings-25Jan-2024.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e2f2a082-e5a2-4465-916a-2d3e81a98b5a.pdf"
+   },
+   {
+    "period": "Oct 2023",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2023/10/Earnings-Call-Transcript-Q2FY24.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=62576463-bdae-42cd-921b-b52f510d9b21.pdf"
+   },
+   {
+    "period": "Jul 2023",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2023/08/Earnings-Call-Transcript-Q1FY24-Equitas-Small-Finance-Bank.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ecfe1939-2ed2-40c1-a90f-280f85500b19.pdf"
+   },
+   {
+    "period": "May 2023",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2023/05/ESFB-Q4FY23-Conference-Call-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6fad06c5-2a42-4c82-ad10-b04d21d42dc8.pdf"
+   },
+   {
+    "period": "Feb 2023",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2023/02/ESFB-Q3FY23-Conference-Call-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a454e8ab-9775-4dfc-a085-3f72ef32274e.pdf"
+   },
+   {
+    "period": "Nov 2022",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2022/11/ESFB-Q2FY23-Conference-Call-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=92fc30cf-fb38-4cc4-a0ae-0e130eebe626.pdf"
+   },
+   {
+    "period": "Jul 2022",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2022/08/ESFB-Q1FY23-Conference-Call-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3cf690b6-8ca6-4c8f-a9b4-08bf68cd5402.pdf"
+   },
+   {
+    "period": "Jul 2022",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=152f8770-014b-4f77-a087-bf5be7e30357.pdf"
+   },
+   {
+    "period": "May 2022",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2022/05/ESFB-Q4FY22-Conference-Call-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1ba393da-8ee1-42ad-97d7-5e3b157e2536.pdf"
+   },
+   {
+    "period": "Sep 2021",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2021/11/ESFB-Q2FY22-Conference-Call-Transcript.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Jul 2021",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2021/08/ESFB-Q1FY22-Conference-Call-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=829ef466-c2a5-407f-8bde-fb9e4c888015.pdf"
+   },
+   {
+    "period": "Jul 2021",
+    "transcript": null,
+    "ppt": "https://ir.equitasbank.com/wp-content/uploads/2021/07/ESFB_Q1FY22_Investor-Presentation_Final-1.pdf"
+   },
+   {
+    "period": "Apr 2021",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2021/05/ESFB-Q4FY21-Conference-Call-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b9897508-6948-4243-a22b-c9d23ceb60eb.pdf"
+   },
+   {
+    "period": "Jan 2021",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2021/02/ESFB_Q3FY21-Conference_Call_Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d4196cab-894e-4ef1-97a0-c5894346c8b6.pdf"
+   },
+   {
+    "period": "Dec 2020",
+    "transcript": "https://ir.equitasbank.com/wp-content/uploads/2020/12/1.-ESFB_Q2FY21-Conference_Call_Transcript.pdf",
+    "ppt": "https://ir.equitasbank.com/wp-content/uploads/2020/12/1.-ESFB_Q2FY21_Investor_Presentation_Final.pdf"
+   }
+  ]
+ }
+}

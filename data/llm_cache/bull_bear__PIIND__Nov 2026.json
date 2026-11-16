@@ -1,0 +1,19 @@
+{
+ "key": "bull_bear:PIIND:Nov 2026",
+ "producer": "claude-opus-5-5 (reasoning tier) — generated in the build session from the same extracted inputs; no API key in the prototype",
+ "prompt_hash": "",
+ "created": "2026-11-16T13:43:29",
+ "usage": null,
+ "output": {
+  "bull": [
+   "Virtually debt-free (debt/equity 0.03): can fund ₹700–800 cr FY27 capex through the downcycle without stress.",
+   "Held FY26 EBITDA margin at ~25% as committed, even as revenue fell 8–28% YoY each quarter.",
+   "Investing through the cycle: pharma revenue grew 40% in FY26; biologicals and electronic chemicals are being built out."
+  ],
+  "bear": [
+   "Q2 FY27 EBITDA margin collapsed to 14% (−15 pts YoY), the lowest in 13 quarters; PAT −70% YoY.",
+   "FY27 'lower single digit' growth already off-track: revenue −10% and −9% YoY in H1.",
+   "Gross margin ~49% by management's own account, below its 50–52% band; 3-year revenue CAGR just 1.1%."
+  ]
+ }
+}

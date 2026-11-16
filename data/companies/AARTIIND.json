@@ -1,0 +1,1332 @@
+{
+ "symbol": "AARTIIND",
+ "source_url": "https://www.screener.in/company/AARTIIND/consolidated/",
+ "consolidated": true,
+ "fetched_at": "2026-11-16T13:57:53",
+ "name": "Aarti Industries Ltd",
+ "about": "Aarti Industries Ltd, the flagship company of the Aarti group, manufacturing organic and inorganic chemicals at its major facilities in Vapi, Jhagadia, Dahej and Kutch, in Gujarat and in Tarapur in Maharashtra. The company has a strong market position in the NCB-based specialty chemicals segment. [1]",
+ "key_points": "Product Portfolio [1] The company\u2019s key product value chains include Nitro Chloro Benzenes (NCB), Di-Chloro Benzenes (DCB), Phenylenediamines (PDA), Nitro Toluene derivatives, and Sulphuric Acid & downstream products, with a portfolio of over 100 products.",
+ "bse_code": "524208",
+ "nse_symbol": "AARTIIND",
+ "website": "http://www.aarti-industries.com",
+ "ratios": {
+  "Market Cap": 17216.0,
+  "Current Price": 474.0,
+  "High / Low": [
+   552.0,
+   338.0
+  ],
+  "Stock P/E": 28.4,
+  "Book Value": 173.0,
+  "Dividend Yield": 0.21,
+  "ROCE": 6.86,
+  "ROE": 7.17,
+  "Face Value": 5.0
+ },
+ "quarters": {
+  "periods": [
+   "Sep 2023",
+   "Dec 2023",
+   "Mar 2024",
+   "Jun 2024",
+   "Sep 2024",
+   "Dec 2024",
+   "Mar 2025",
+   "Jun 2025",
+   "Sep 2025",
+   "Dec 2025",
+   "Mar 2026",
+   "Jun 2026",
+   "Sep 2026"
+  ],
+  "rows": {
+   "Sales": [
+    1454.0,
+    1732.0,
+    1773.0,
+    1851.0,
+    1628.0,
+    1843.0,
+    1949.0,
+    1675.0,
+    2100.0,
+    2318.0,
+    2205.0,
+    2387.0,
+    3669.0
+   ],
+   "YoY Sales growth": [
+    -14.0,
+    4.0,
+    7.0,
+    31.0,
+    12.0,
+    6.0,
+    10.0,
+    -10.0,
+    29.0,
+    26.0,
+    13.0,
+    43.0,
+    75.0
+   ],
+   "Expenses": [
+    1221.0,
+    1473.0,
+    1489.0,
+    1546.0,
+    1431.0,
+    1612.0,
+    1687.0,
+    1463.0,
+    1809.0,
+    1997.0,
+    1864.0,
+    2005.0,
+    3259.0
+   ],
+   "Operating Profit": [
+    233.0,
+    259.0,
+    284.0,
+    305.0,
+    197.0,
+    231.0,
+    262.0,
+    212.0,
+    291.0,
+    321.0,
+    341.0,
+    382.0,
+    410.0
+   ],
+   "OPM %": [
+    16.0,
+    15.0,
+    16.0,
+    16.0,
+    12.0,
+    13.0,
+    13.0,
+    13.0,
+    14.0,
+    14.0,
+    15.0,
+    16.0,
+    11.0
+   ],
+   "Other Income": [
+    -0.0,
+    8.0,
+    -1.0,
+    6.0,
+    7.0,
+    5.0,
+    3.0,
+    4.0,
+    22.0,
+    -13.0,
+    1.0,
+    5.0,
+    7.0
+   ],
+   "Interest": [
+    58.0,
+    54.0,
+    59.0,
+    64.0,
+    62.0,
+    85.0,
+    64.0,
+    60.0,
+    100.0,
+    69.0,
+    112.0,
+    83.0,
+    88.0
+   ],
+   "Depreciation": [
+    93.0,
+    97.0,
+    98.0,
+    102.0,
+    108.0,
+    111.0,
+    113.0,
+    114.0,
+    120.0,
+    121.0,
+    119.0,
+    124.0,
+    125.0
+   ],
+   "Profit before tax": [
+    82.0,
+    116.0,
+    126.0,
+    145.0,
+    34.0,
+    40.0,
+    88.0,
+    42.0,
+    93.0,
+    118.0,
+    111.0,
+    180.0,
+    204.0
+   ],
+   "Tax %": [
+    -11.0,
+    -7.0,
+    -5.0,
+    6.0,
+    -53.0,
+    -15.0,
+    -9.0,
+    -2.0,
+    -14.0,
+    -13.0,
+    -23.0,
+    14.0,
+    17.0
+   ],
+   "Net Profit": [
+    91.0,
+    124.0,
+    132.0,
+    137.0,
+    52.0,
+    46.0,
+    96.0,
+    43.0,
+    106.0,
+    133.0,
+    137.0,
+    155.0,
+    168.0
+   ],
+   "EPS in Rs": [
+    2.51,
+    3.42,
+    3.64,
+    3.78,
+    1.43,
+    1.27,
+    2.65,
+    1.19,
+    2.92,
+    3.67,
+    3.78,
+    4.27,
+    4.63
+   ]
+  },
+  "pdfs": [
+   "https://www.screener.in/company/source/quarter/21/9/2023/",
+   "https://www.screener.in/company/source/quarter/21/12/2023/",
+   "https://www.screener.in/company/source/quarter/21/3/2024/",
+   "https://www.screener.in/company/source/quarter/21/6/2024/",
+   "https://www.screener.in/company/source/quarter/21/9/2024/",
+   "https://www.screener.in/company/source/quarter/21/12/2024/",
+   "https://www.screener.in/company/source/quarter/21/3/2025/",
+   "https://www.screener.in/company/source/quarter/21/6/2025/",
+   "https://www.screener.in/company/source/quarter/21/9/2025/",
+   "https://www.screener.in/company/source/quarter/21/12/2025/",
+   "https://www.screener.in/company/source/quarter/21/3/2026/",
+   "https://www.screener.in/company/source/quarter/21/6/2026/",
+   "https://www.screener.in/company/source/quarter/21/9/2026/"
+  ]
+ },
+ "annual": {
+  "periods": [
+   "Mar 2015",
+   "Mar 2016",
+   "Mar 2017",
+   "Mar 2018",
+   "Mar 2019",
+   "Mar 2020",
+   "Mar 2021",
+   "Mar 2022",
+   "Mar 2023",
+   "Mar 2024",
+   "Mar 2025",
+   "Mar 2026",
+   "TTM"
+  ],
+  "rows": {
+   "Sales": [
+    2890.0,
+    3006.0,
+    3163.0,
+    3806.0,
+    4168.0,
+    4186.0,
+    4506.0,
+    6086.0,
+    6619.0,
+    6371.0,
+    7269.0,
+    8286.0,
+    10579.0
+   ],
+   "Sales growth": [
+    10.0,
+    4.0,
+    5.0,
+    20.0,
+    10.0,
+    0.0,
+    8.0,
+    35.0,
+    9.0,
+    -4.0,
+    14.0,
+    14.0,
+    40.0
+   ],
+   "Expenses": [
+    2424.0,
+    2434.0,
+    2509.0,
+    3106.0,
+    3202.0,
+    3209.0,
+    3525.0,
+    4365.0,
+    5530.0,
+    5393.0,
+    6272.0,
+    7118.0,
+    9125.0
+   ],
+   "Operating Profit": [
+    466.0,
+    572.0,
+    654.0,
+    700.0,
+    965.0,
+    977.0,
+    982.0,
+    1720.0,
+    1089.0,
+    978.0,
+    997.0,
+    1168.0,
+    1454.0
+   ],
+   "OPM %": [
+    16.0,
+    19.0,
+    21.0,
+    18.0,
+    23.0,
+    23.0,
+    22.0,
+    28.0,
+    16.0,
+    15.0,
+    14.0,
+    14.0,
+    14.0
+   ],
+   "Other Income": [
+    9.0,
+    6.0,
+    2.0,
+    7.0,
+    2.0,
+    9.0,
+    1.0,
+    1.0,
+    1.0,
+    7.0,
+    20.0,
+    11.0,
+    0.0
+   ],
+   "Interest": [
+    138.0,
+    117.0,
+    117.0,
+    132.0,
+    183.0,
+    125.0,
+    86.0,
+    102.0,
+    168.0,
+    211.0,
+    275.0,
+    340.0,
+    352.0
+   ],
+   "Depreciation": [
+    82.0,
+    98.0,
+    123.0,
+    146.0,
+    163.0,
+    185.0,
+    231.0,
+    246.0,
+    310.0,
+    378.0,
+    434.0,
+    474.0,
+    489.0
+   ],
+   "Profit before tax": [
+    255.0,
+    363.0,
+    416.0,
+    429.0,
+    622.0,
+    676.0,
+    665.0,
+    1372.0,
+    611.0,
+    395.0,
+    307.0,
+    365.0,
+    613.0
+   ],
+   "Tax %": [
+    24.0,
+    26.0,
+    21.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    14.0,
+    11.0,
+    -5.0,
+    -8.0,
+    -15.0,
+    null
+   ],
+   "Net Profit": [
+    208.0,
+    268.0,
+    328.0,
+    346.0,
+    504.0,
+    547.0,
+    535.0,
+    1186.0,
+    545.0,
+    416.0,
+    331.0,
+    419.0,
+    593.0
+   ],
+   "EPS in Rs": [
+    5.81,
+    7.71,
+    9.62,
+    10.24,
+    14.18,
+    15.39,
+    15.02,
+    32.71,
+    15.04,
+    11.49,
+    9.13,
+    11.56,
+    16.35
+   ],
+   "Dividend Payout %": [
+    24.0,
+    28.0,
+    3.0,
+    2.0,
+    19.0,
+    11.0,
+    10.0,
+    11.0,
+    17.0,
+    9.0,
+    11.0,
+    9.0,
+    null
+   ]
+  },
+  "pdfs": []
+ },
+ "balance_sheet": {
+  "periods": [
+   "Mar 2015",
+   "Mar 2016",
+   "Mar 2017",
+   "Mar 2018",
+   "Mar 2019",
+   "Mar 2020",
+   "Mar 2021",
+   "Mar 2022",
+   "Mar 2023",
+   "Mar 2024",
+   "Mar 2025",
+   "Mar 2026",
+   "Sep 2026"
+  ],
+  "rows": {
+   "Equity Capital": [
+    44.0,
+    42.0,
+    41.0,
+    41.0,
+    43.0,
+    87.0,
+    87.0,
+    181.0,
+    181.0,
+    181.0,
+    181.0,
+    181.0,
+    181.0
+   ],
+   "Reserves": [
+    972.0,
+    1096.0,
+    1321.0,
+    1538.0,
+    2587.0,
+    2892.0,
+    3416.0,
+    4335.0,
+    4739.0,
+    5109.0,
+    5424.0,
+    5774.0,
+    6083.0
+   ],
+   "Borrowings": [
+    1202.0,
+    1292.0,
+    1564.0,
+    2083.0,
+    2401.0,
+    2098.0,
+    2857.0,
+    2587.0,
+    2907.0,
+    3623.0,
+    3848.0,
+    4966.0,
+    5186.0
+   ],
+   "Other Liabilities": [
+    719.0,
+    538.0,
+    573.0,
+    730.0,
+    826.0,
+    1256.0,
+    1282.0,
+    748.0,
+    754.0,
+    1203.0,
+    1661.0,
+    2379.0,
+    2829.0
+   ],
+   "Total Liabilities": [
+    2938.0,
+    2966.0,
+    3499.0,
+    4391.0,
+    5858.0,
+    6332.0,
+    7642.0,
+    7851.0,
+    8581.0,
+    10115.0,
+    11114.0,
+    13300.0,
+    14279.0
+   ],
+   "Fixed Assets": [
+    967.0,
+    1246.0,
+    1697.0,
+    1998.0,
+    2147.0,
+    2468.0,
+    3593.0,
+    3595.0,
+    4861.0,
+    5649.0,
+    6377.0,
+    6399.0,
+    6550.0
+   ],
+   "CWIP": [
+    193.0,
+    313.0,
+    270.0,
+    436.0,
+    795.0,
+    1418.0,
+    1298.0,
+    1346.0,
+    1096.0,
+    1229.0,
+    1454.0,
+    2187.0,
+    2222.0
+   ],
+   "Investments": [
+    139.0,
+    41.0,
+    47.0,
+    47.0,
+    33.0,
+    37.0,
+    64.0,
+    28.0,
+    17.0,
+    23.0,
+    48.0,
+    132.0,
+    161.0
+   ],
+   "Other Assets": [
+    1639.0,
+    1366.0,
+    1486.0,
+    1910.0,
+    2884.0,
+    2409.0,
+    2688.0,
+    2882.0,
+    2607.0,
+    3214.0,
+    3235.0,
+    4582.0,
+    5346.0
+   ],
+   "Total Assets": [
+    2938.0,
+    2966.0,
+    3499.0,
+    4391.0,
+    5858.0,
+    6332.0,
+    7642.0,
+    7851.0,
+    8581.0,
+    10115.0,
+    11114.0,
+    13300.0,
+    14279.0
+   ]
+  },
+  "pdfs": []
+ },
+ "cash_flow": {
+  "periods": [
+   "Mar 2015",
+   "Mar 2016",
+   "Mar 2017",
+   "Mar 2018",
+   "Mar 2019",
+   "Mar 2020",
+   "Mar 2021",
+   "Mar 2022",
+   "Mar 2023",
+   "Mar 2024",
+   "Mar 2025",
+   "Mar 2026"
+  ],
+  "rows": {
+   "Cash from Operating Activity": [
+    340.0,
+    574.0,
+    470.0,
+    335.0,
+    736.0,
+    1102.0,
+    873.0,
+    519.0,
+    1319.0,
+    1210.0,
+    1238.0,
+    781.0
+   ],
+   "Cash from Investing Activity": [
+    -298.0,
+    -452.0,
+    -529.0,
+    -610.0,
+    -797.0,
+    -1124.0,
+    -1322.0,
+    -1169.0,
+    -1330.0,
+    -1369.0,
+    -1393.0,
+    -1142.0
+   ],
+   "Cash from Financing Activity": [
+    -23.0,
+    -128.0,
+    58.0,
+    279.0,
+    833.0,
+    -535.0,
+    614.0,
+    412.0,
+    38.0,
+    420.0,
+    -73.0,
+    745.0
+   ],
+   "Net Cash Flow": [
+    19.0,
+    -7.0,
+    -0.0,
+    4.0,
+    772.0,
+    -557.0,
+    165.0,
+    -239.0,
+    27.0,
+    261.0,
+    -229.0,
+    383.0
+   ],
+   "Free Cash Flow": [
+    45.0,
+    124.0,
+    -60.0,
+    -279.0,
+    -55.0,
+    -23.0,
+    -442.0,
+    -646.0,
+    -8.0,
+    -96.0,
+    -137.0,
+    -340.0
+   ],
+   "CFO/EBITDA Share of operating profit converting into cash: CFO (before tax) / Operating Profit": [
+    85.0,
+    117.0,
+    87.0,
+    62.0,
+    90.0,
+    130.0,
+    99.0,
+    44.0,
+    129.0,
+    132.0,
+    123.0,
+    67.0
+   ]
+  },
+  "pdfs": []
+ },
+ "efficiency": {
+  "periods": [
+   "Mar 2015",
+   "Mar 2016",
+   "Mar 2017",
+   "Mar 2018",
+   "Mar 2019",
+   "Mar 2020",
+   "Mar 2021",
+   "Mar 2022",
+   "Mar 2023",
+   "Mar 2024",
+   "Mar 2025",
+   "Mar 2026"
+  ],
+  "rows": {
+   "Debtor Days": [
+    55.0,
+    64.0,
+    61.0,
+    63.0,
+    68.0,
+    66.0,
+    64.0,
+    65.0,
+    52.0,
+    49.0,
+    39.0,
+    62.0
+   ],
+   "Inventory Days": [
+    123.0,
+    108.0,
+    136.0,
+    144.0,
+    152.0,
+    174.0,
+    190.0,
+    143.0,
+    115.0,
+    121.0,
+    126.0,
+    129.0
+   ],
+   "Days Payable": [
+    55.0,
+    67.0,
+    71.0,
+    69.0,
+    55.0,
+    72.0,
+    117.0,
+    53.0,
+    24.0,
+    76.0,
+    107.0,
+    137.0
+   ],
+   "Cash Conversion Cycle": [
+    123.0,
+    105.0,
+    125.0,
+    138.0,
+    165.0,
+    168.0,
+    137.0,
+    155.0,
+    143.0,
+    94.0,
+    58.0,
+    54.0
+   ],
+   "Working Capital Days": [
+    10.0,
+    10.0,
+    -4.0,
+    6.0,
+    -14.0,
+    -14.0,
+    -36.0,
+    22.0,
+    -29.0,
+    -36.0,
+    -44.0,
+    -64.0
+   ],
+   "ROCE %": [
+    19.0,
+    20.0,
+    19.0,
+    16.0,
+    18.0,
+    15.0,
+    13.0,
+    22.0,
+    10.0,
+    7.0,
+    6.0,
+    7.0
+   ]
+  },
+  "pdfs": []
+ },
+ "shareholding": {
+  "periods": [
+   "Dec 2023",
+   "Mar 2024",
+   "Jun 2024",
+   "Sep 2024",
+   "Dec 2024",
+   "Mar 2025",
+   "Jun 2025",
+   "Sep 2025",
+   "Dec 2025",
+   "Mar 2026",
+   "Jun 2026",
+   "Sep 2026"
+  ],
+  "rows": {
+   "Promoters": [
+    43.54,
+    43.43,
+    43.24,
+    42.61,
+    42.35,
+    42.24,
+    42.24,
+    42.18,
+    42.14,
+    42.09,
+    41.82,
+    41.82
+   ],
+   "FIIs": [
+    10.83,
+    10.93,
+    10.61,
+    9.68,
+    7.25,
+    6.29,
+    6.44,
+    6.4,
+    6.7,
+    7.38,
+    7.0,
+    6.96
+   ],
+   "DIIs": [
+    15.82,
+    17.24,
+    18.55,
+    18.11,
+    17.93,
+    19.96,
+    20.38,
+    18.21,
+    18.22,
+    20.12,
+    21.11,
+    20.9
+   ],
+   "Government": [
+    0.02,
+    0.03,
+    0.03,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01
+   ],
+   "Public": [
+    29.78,
+    28.38,
+    27.58,
+    29.58,
+    32.46,
+    31.48,
+    30.92,
+    33.2,
+    32.94,
+    30.39,
+    30.08,
+    30.31
+   ],
+   "No. of Shareholders": [
+    418123.0,
+    377953.0,
+    349415.0,
+    394154.0,
+    450588.0,
+    439227.0,
+    425399.0,
+    428931.0,
+    418492.0,
+    384210.0,
+    370868.0,
+    369143.0
+   ]
+  },
+  "pdfs": []
+ },
+ "documents": {
+  "announcements": [
+   {
+    "title": "Demise",
+    "detail": "Promoter Chandrakant V. Gogri died on November 15, 2026; he ceases as promoter.",
+    "ts": "2026-11-15T22:59:11+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=11aa8444-f8e0-4abd-9a95-3729b5eaf3ad.pdf"
+   },
+   {
+    "title": "Earnings Call Transcript",
+    "detail": "PFA Transcript of Q2 FY27 Earnings Conference Call",
+    "ts": "2026-11-06T17:26:20+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=debec1cf-81cc-44da-a0e6-37e1fd2a2fc2.pdf"
+   },
+   {
+    "title": "Analyst / Investor Meet - Outcome",
+    "detail": "Audio recording of Q2 FY2027 earnings conference call uploaded on company website.",
+    "ts": "2026-11-02T15:13:41+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=92360e6c-7237-42da-aa31-8b8ebd512a14.pdf"
+   },
+   {
+    "title": "Shareholder Meeting / Postal Ballot-Scrutinizer\"s Report",
+    "detail": "EGM on October 31, 2026 approved fund raising up to Rs 1,000 crore via securities issuance.",
+    "ts": "2026-11-02T11:02:01+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fbb9c807-9c9c-4aff-a0b7-3d6dfe867ede.pdf"
+   },
+   {
+    "title": "Investor Presentation",
+    "detail": "The Q2 FY27 Results Presentation of the Company for your records",
+    "ts": "2026-11-01T21:51:05+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=779fec81-cb4f-47e5-bc21-3f9683367f92.pdf"
+   }
+  ],
+  "annual_reports": [
+   {
+    "year": 2026,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6e07a7c0-2acd-4c8c-b356-37c5b01dde51.pdf"
+   },
+   {
+    "year": 2025,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7f58d064-a1a8-462c-9384-a863462ee752.pdf"
+   },
+   {
+    "year": 2024,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5b007427-4378-4727-a38e-7ce723355f10.pdf"
+   },
+   {
+    "year": 2023,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c7dfe5a2-c766-4434-828d-83d8bc08b46f.pdf"
+   },
+   {
+    "year": 2022,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/524208/75641524208.pdf"
+   },
+   {
+    "year": 2021,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/524208/71288524208.pdf"
+   },
+   {
+    "year": 2020,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/524208/65096524208.pdf"
+   },
+   {
+    "year": 2019,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/524208/5242080319.pdf"
+   },
+   {
+    "year": 2018,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/524208/5242080318.pdf"
+   },
+   {
+    "year": 2017,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/524208/5242080317.pdf"
+   },
+   {
+    "year": 2016,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/524208/5242080316.pdf"
+   },
+   {
+    "year": 2015,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/524208/5242080315.pdf"
+   },
+   {
+    "year": 2014,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/524208/5242080314.pdf"
+   },
+   {
+    "year": 2013,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/524208/5242080313.pdf"
+   },
+   {
+    "year": 2012,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/524208/5242080312.pdf"
+   }
+  ],
+  "concalls": [
+   {
+    "period": "Nov 2026",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=debec1cf-81cc-44da-a0e6-37e1fd2a2fc2.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=779fec81-cb4f-47e5-bc21-3f9683367f92.pdf"
+   },
+   {
+    "period": "Sep 2026",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=92d2dd37-3c9e-4b1e-868c-a71eaa36e685.pdf"
+   },
+   {
+    "period": "Aug 2026",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f9fc9623-37a9-4f18-bda2-5392dc4df538.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bdbbb1d9-b3b4-44cd-868f-183d70b59c8b.pdf"
+   },
+   {
+    "period": "May 2026",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a23d262-8f44-44db-b093-8c277e6c9b3a.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=97e742eb-8058-4856-be26-6fe81b2be3c9.pdf"
+   },
+   {
+    "period": "Feb 2026",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6de2d23f-e730-4ed9-b1a5-32b0270a0ed3.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=164a35a2-81d9-41cc-9aff-dd8214e77e43.pdf"
+   },
+   {
+    "period": "Nov 2025",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=86d30b58-d7f1-4a46-8216-b281fc11e8ec.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c4bfb7cd-1dbb-4ef2-8051-e6d93f30c3ac.pdf"
+   },
+   {
+    "period": "Aug 2025",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=894da67a-9c3b-43e2-a68b-f2f3d2c260a4.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=47fd09ac-1e88-4cf7-9565-552882a742d6.pdf"
+   },
+   {
+    "period": "Jul 2025",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=76fdfe1b-314e-40a0-a107-260bbf6c53aa.pdf"
+   },
+   {
+    "period": "May 2025",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8662e3b4-11bc-43fe-acc3-5ec5e7072e51.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=09915645-abb9-44cb-b06d-5aa1ccbdf64a.pdf"
+   },
+   {
+    "period": "Feb 2025",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3550b0c3-d5c5-4628-9c49-4cf67f28ae77.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6af21b62-9219-4f45-94ef-c0acd01652ff.pdf"
+   },
+   {
+    "period": "Nov 2024",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=232e12b1-68e8-4dc3-99e9-cf30e9f82d6a.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0bed60cc-b0e0-4164-b279-f0f0a6649512.pdf"
+   },
+   {
+    "period": "Aug 2024",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5fc76e70-5c14-46c5-9c68-47937da043e7.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9c4bd260-1d08-43d3-817c-e64505ec47e0.pdf"
+   },
+   {
+    "period": "Aug 2024",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0b744389-123e-4ab0-8935-013f54a6277e.pdf"
+   },
+   {
+    "period": "Aug 2024",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27becc6a-3737-4609-bc09-ff72ce46ce3f.pdf"
+   },
+   {
+    "period": "Aug 2024",
+    "transcript": null,
+    "ppt": "https://www.aarti-industries.com/upload/pdf/agm-presentation_ausugst-2,-2024.pdf"
+   },
+   {
+    "period": "May 2024",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=45db12f6-81d0-4f6d-abab-c1c7bfd80adb.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3ba41cf5-9abe-47dc-9252-275d525555ac.pdf"
+   },
+   {
+    "period": "Feb 2024",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cbe76a61-79ff-4563-a8ae-b62d2e689d1a.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=34bc670e-508d-4c44-87e6-b22c777b2d9d.pdf"
+   },
+   {
+    "period": "Nov 2023",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=abbcc592-b1c1-4d59-9bdf-316f9294f474.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=86c2d678-c299-465f-b731-ab353635c56b.pdf"
+   },
+   {
+    "period": "Aug 2023",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0672d367-0546-439b-b54f-17adf3d20e0b.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=39f5c72b-19a2-4274-8c03-ecff2e6661df.pdf"
+   },
+   {
+    "period": "Aug 2023",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b6a58fe8-6621-4342-9076-bd2ef784d6d4.pdf"
+   },
+   {
+    "period": "May 2023",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a1a0cbe8-b32a-4429-8a3e-57b0c68dbcc9.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a804949-294b-449a-82df-b07a62b806a5.pdf"
+   },
+   {
+    "period": "Mar 2023",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bdf6319e-2e13-48db-8dbc-7cdb94fc646a.pdf"
+   },
+   {
+    "period": "Mar 2023",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e2f02ac0-f2b7-406f-8d01-5ccc815dcd3a.pdf"
+   },
+   {
+    "period": "Feb 2023",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7df3b95b-37be-45c0-a583-556b9585fa49.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9af88db2-e9ae-4d36-afa2-50e0b2e1e6c3.pdf"
+   },
+   {
+    "period": "Nov 2022",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3b1f2bc2-7222-4d39-8e69-9898afc4a4dc.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=14b2871c-36c6-46d6-8923-22d9c3fc3f77.pdf"
+   },
+   {
+    "period": "Sep 2022",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0bbb3487-1703-4bf5-a0ce-4d080c009779.pdf"
+   },
+   {
+    "period": "Aug 2022",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=910d8fe5-edea-45ed-a80d-2a437862e856.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f8f66684-44eb-4e33-a086-739001d76448.pdf"
+   },
+   {
+    "period": "Jun 2022",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ffc21a7a-1c69-452e-938d-d63bb523c1e6.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d077dd3-c387-4f7e-9c08-2980e77174b6.pdf"
+   },
+   {
+    "period": "Feb 2022",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7149569-450f-4259-83c6-f8f4d16e62a3.pdf"
+   },
+   {
+    "period": "Nov 2021",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Q2-FY22-Concall-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a1f0244e-d864-43fa-8d15-4320f7e59d70.pdf"
+   },
+   {
+    "period": "Sep 2021",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d19b8d6a-9ba8-407c-94c9-113fefb0d225.pdf"
+   },
+   {
+    "period": "Aug 2021",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Q1-FY-22-Concall-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c6740a0b-40e6-4442-8c44-e2d5b2f5d374.pdf"
+   },
+   {
+    "period": "Jun 2021",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d84bb011-ef51-4e6d-ac12-182768377a26.pdf"
+   },
+   {
+    "period": "May 2021",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/q4-fy21-concall-transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=19aa5180-6001-4901-8157-ab724c9f02be.pdf"
+   },
+   {
+    "period": "Jan 2021",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/q3-fy-2021-concall-transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d02aa8fc-2c24-45a1-ab00-cb9b41005a0f.pdf"
+   },
+   {
+    "period": "Nov 2020",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/q2-FY21-Concall-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=60f5b336-6f03-4f8e-86ca-f0868b071b2b.pdf"
+   },
+   {
+    "period": "Aug 2020",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Q1_FY_21_Concall_Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=92d2ed1b-946d-478c-878b-8b9ec4a19558.pdf"
+   },
+   {
+    "period": "May 2020",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Q4_FY20_Concall_Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=57f7c9f9-c978-47a2-b3e6-c96a6f5a966e.pdf"
+   },
+   {
+    "period": "Feb 2020",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Q3_FY20_Concall_Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4e4e4f93-15d8-446d-957d-d0ddb0877008.pdf"
+   },
+   {
+    "period": "Nov 2019",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Q2_FY20_Concall_Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=451d452d-355b-402c-b913-12030ab826cc.pdf"
+   },
+   {
+    "period": "Aug 2019",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Q1_FY_20_Concall_Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6c6e8ba5-062a-4bed-aceb-6d846a805d9e.pdf"
+   },
+   {
+    "period": "Jul 2019",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b43c1017-a6d7-431b-9a35-0f65c8f1e440.pdf"
+   },
+   {
+    "period": "May 2019",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Q4__FY19_Concall_Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aba8f5e6-e047-4404-b07e-c3ca85cf613b.pdf"
+   },
+   {
+    "period": "Feb 2019",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Q3_9M_FY19_Earnings_Conference_Call_Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=18c5efa0-9a54-4d43-a296-a129b445b6bf.pdf"
+   },
+   {
+    "period": "Nov 2018",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Q2_H1_FY19_Concall_Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f84b7d71-f188-4d03-8eb2-4845280838e4.pdf"
+   },
+   {
+    "period": "Aug 2018",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Q1_FY_19_Concall_Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=189b0472-e455-472b-8d6b-a74762ba9115.pdf"
+   },
+   {
+    "period": "May 2018",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Q4_FY18_Concall_Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=75899b2d-077b-4e81-a27e-ce427f6551b2.pdf"
+   },
+   {
+    "period": "Feb 2018",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Q3_9M_FY18_Concall_Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1d769cf-f0e6-4a82-9f92-6b828427b6ed.pdf"
+   },
+   {
+    "period": "Nov 2017",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Q2_H1_FY18_Concall_Transcript.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Aug 2017",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Q1_FY_18_Concall_Transcript.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Jun 2017",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=72400e2b-94ee-4c45-adb5-de74e149785f.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=329d203d-7d5a-40b3-b497-08a403ba53d0.pdf"
+   },
+   {
+    "period": "Mar 2017",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=acf6739d-4461-4f72-8d9d-6e0ceca394a7.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Nov 2016",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Q2FY17_Concall_Transcript.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Aug 2016",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=FA6AF6C6_8A9B_468E_B4C7_1674EA3090C1_162517.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Jun 2016",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Concall-Transcript-for-Quarter-ended-31st-March-2016.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5F510B09_DED6_4814_B5E0_661DFA37FAF3_173041.pdf"
+   },
+   {
+    "period": "Apr 2016",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=EC726E7F_0226_43CE_9AAC_E858092F378C_131028.pdf"
+   },
+   {
+    "period": "Mar 2016",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=37026EFC_35F7_4840_9542_4AB2EE3F053A_125115.pdf"
+   },
+   {
+    "period": "Mar 2016",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=D08B8317_5B02_4FFA_885B_6D41E8680611_165449.pdf"
+   },
+   {
+    "period": "Feb 2016",
+    "transcript": "https://www.aarti-industries.com/Upload/PDF/Concall-Transcript-for-Quarter-ended-31st-Dec-2015.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=A0F5265A_91D5_4C6D_8525_65D73F8C77F4_183900.pdf"
+   },
+   {
+    "period": "Jan 2016",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5574E61F_06B7_4C55_93BB_094563D3F82A_124125.pdf"
+   }
+  ]
+ }
+}

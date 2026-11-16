@@ -1,0 +1,19 @@
+{
+ "key": "bull_bear:KAYNES:Aug 2026",
+ "producer": "claude-opus-5-5 (reasoning tier) — generated in the build session from the same extracted inputs; no API key in the prototype",
+ "prompt_hash": "",
+ "created": "2026-11-16T13:43:29",
+ "usage": null,
+ "output": {
+  "bull": [
+   "Revenue compounded ~54% a year over five years (₹420 cr FY21 → ₹3,626 cr FY26).",
+   "OSAT and PCB add a second engine: management has committed ₹500 cr of combined revenue from H2 FY27.",
+   "Board approved a TFT display-module JV with Toyokawa Techno (14 Nov 2026), widening the product stack."
+  ],
+  "bear": [
+   "FY26 operating cash flow −₹600 cr vs ₹364 cr profit; free cash flow negative five years running.",
+   "Guidance credibility: FY26 target cut from ₹4,500 cr to ₹4,000 cr, then ₹3,626 cr delivered.",
+   "Q2 FY27 revenue +4.5% YoY, EBITDA margin 13% (9-quarter low), PAT −66%; debtor days doubled to 154."
+  ]
+ }
+}

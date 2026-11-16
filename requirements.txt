@@ -1,0 +1,9 @@
+yfinance>=1.8
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+pypdf>=7.0
+rapidfuzz>=3.6
+fastapi>=0.160
+uvicorn[standard]>=0.29
+anthropic>=0.70   # optional: only used when FINN_ANTHROPIC_API_KEY is set

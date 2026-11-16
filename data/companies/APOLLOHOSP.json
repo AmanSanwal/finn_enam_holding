@@ -1,0 +1,1257 @@
+{
+ "symbol": "APOLLOHOSP",
+ "source_url": "https://www.screener.in/company/APOLLOHOSP/consolidated/",
+ "consolidated": true,
+ "fetched_at": "2026-11-16T13:57:52",
+ "name": "Apollo Hospitals Enterprise Ltd",
+ "about": "Apollo Hospitals was established in 1983 by Dr. Prathap C Reddy, renowned architect of modern healthcare in India. As the nation\u2019s first corporate hospital, Apollo Hospitals is acclaimed for pioneering the private healthcare revolution in the country. Apollo Hospitals has emerged as Asia\u2019s foremost integrated healthcare services provider and has a robust presence across the healthcare ecosystem, including Hospitals, Pharmacies, Primary Care & Diagnostic Clinics and several Retail Health models. [1]",
+ "key_points": "Business Segments: a) Healthcare Services (50% in FY26 vs 55% in FY22): [1] [2] [3] The company has a capacity of 10,970 beds in 78 hospitals located in India and overseas, out of which 9,481 beds are located in 49 owned hospitals, 699 beds in Day Surgery & Cradles and 790 beds are in 6 managed hospitals. b) Digital Health & Pharmacy Distribution (43% in FY26 vs 37% in FY22): [4] The WOS Apollo HealthCo (AHL) manages India\u2019s largest organized pharmacy network, operating across 22 states and 5 union territories, with a presence in 1,200 cities and towns. It has 7,289 active stores. Sales from its offline private and generic labels contribute 15.3% of the total revenue (Q4FY26). Additionally, its online platform, Apollo 24x7, has over 47 million registered users and 9 lakh daily active users. [5] c) Retail Health & Diagnostics (7% in FY26 vs 8% in FY22): [6] The WOS Apollo Health & Lifestyle operates 2,501 diagnostics centers, 167 dialysis centers, 280 dental centers, and 316 clinics. As of FY26, the segment has a footfall of 33,461 per day and an average gross realization per patient of Rs. 1,608. [7]",
+ "bse_code": "508869",
+ "nse_symbol": "APOLLOHOSP",
+ "website": "https://www.apollohospitals.com",
+ "ratios": {
+  "Market Cap": 126269.0,
+  "Current Price": 8771.0,
+  "High / Low": [
+   9327.0,
+   6680.0
+  ],
+  "Stock P/E": 55.8,
+  "Book Value": 738.0,
+  "Dividend Yield": 0.23,
+  "ROCE": 17.4,
+  "ROE": 21.5,
+  "Face Value": 5.0
+ },
+ "quarters": {
+  "periods": [
+   "Sep 2023",
+   "Dec 2023",
+   "Mar 2024",
+   "Jun 2024",
+   "Sep 2024",
+   "Dec 2024",
+   "Mar 2025",
+   "Jun 2025",
+   "Sep 2025",
+   "Dec 2025",
+   "Mar 2026",
+   "Jun 2026",
+   "Sep 2026"
+  ],
+  "rows": {
+   "Sales": [
+    4847.0,
+    4851.0,
+    4944.0,
+    5086.0,
+    5589.0,
+    5527.0,
+    5592.0,
+    5842.0,
+    6189.0,
+    6477.0,
+    6606.0,
+    6932.0,
+    7615.0
+   ],
+   "YoY Sales growth": [
+    14.0,
+    14.0,
+    15.0,
+    15.0,
+    15.0,
+    14.0,
+    13.0,
+    15.0,
+    11.0,
+    17.0,
+    18.0,
+    19.0,
+    23.0
+   ],
+   "Expenses": [
+    4219.0,
+    4237.0,
+    4303.0,
+    4410.0,
+    4774.0,
+    4765.0,
+    4822.0,
+    4990.0,
+    5264.0,
+    5512.0,
+    5594.0,
+    5855.0,
+    6424.0
+   ],
+   "Operating Profit": [
+    628.0,
+    614.0,
+    640.0,
+    675.0,
+    816.0,
+    762.0,
+    770.0,
+    852.0,
+    924.0,
+    965.0,
+    1011.0,
+    1077.0,
+    1191.0
+   ],
+   "OPM %": [
+    13.0,
+    13.0,
+    13.0,
+    13.0,
+    15.0,
+    14.0,
+    14.0,
+    15.0,
+    15.0,
+    15.0,
+    15.0,
+    16.0,
+    16.0
+   ],
+   "Other Income": [
+    26.0,
+    29.0,
+    37.0,
+    49.0,
+    44.0,
+    69.0,
+    72.0,
+    54.0,
+    54.0,
+    48.0,
+    54.0,
+    52.0,
+    58.0
+   ],
+   "Interest": [
+    111.0,
+    113.0,
+    119.0,
+    116.0,
+    118.0,
+    110.0,
+    115.0,
+    108.0,
+    99.0,
+    113.0,
+    119.0,
+    108.0,
+    114.0
+   ],
+   "Depreciation": [
+    163.0,
+    167.0,
+    190.0,
+    177.0,
+    184.0,
+    185.0,
+    211.0,
+    215.0,
+    205.0,
+    219.0,
+    224.0,
+    222.0,
+    230.0
+   ],
+   "Profit before tax": [
+    379.0,
+    363.0,
+    368.0,
+    430.0,
+    557.0,
+    536.0,
+    516.0,
+    583.0,
+    675.0,
+    682.0,
+    722.0,
+    799.0,
+    904.0
+   ],
+   "Tax %": [
+    34.0,
+    30.0,
+    30.0,
+    27.0,
+    29.0,
+    29.0,
+    20.0,
+    24.0,
+    27.0,
+    24.0,
+    24.0,
+    24.0,
+    27.0
+   ],
+   "Net Profit": [
+    249.0,
+    254.0,
+    258.0,
+    316.0,
+    396.0,
+    379.0,
+    414.0,
+    441.0,
+    494.0,
+    516.0,
+    551.0,
+    610.0,
+    660.0
+   ],
+   "EPS in Rs": [
+    16.2,
+    17.06,
+    17.65,
+    21.23,
+    26.34,
+    25.89,
+    27.1,
+    30.1,
+    33.19,
+    34.93,
+    36.81,
+    40.39,
+    43.81
+   ]
+  },
+  "pdfs": [
+   "https://www.screener.in/company/source/quarter/218/9/2023/",
+   "https://www.screener.in/company/source/quarter/218/12/2023/",
+   "https://www.screener.in/company/source/quarter/218/3/2024/",
+   "https://www.screener.in/company/source/quarter/218/6/2024/",
+   "https://www.screener.in/company/source/quarter/218/9/2024/",
+   "https://www.screener.in/company/source/quarter/218/12/2024/",
+   "https://www.screener.in/company/source/quarter/218/3/2025/",
+   "https://www.screener.in/company/source/quarter/218/6/2025/",
+   "https://www.screener.in/company/source/quarter/218/9/2025/",
+   "https://www.screener.in/company/source/quarter/218/12/2025/",
+   "https://www.screener.in/company/source/quarter/218/3/2026/",
+   "https://www.screener.in/company/source/quarter/218/6/2026/",
+   "https://www.screener.in/company/source/quarter/218/9/2026/"
+  ]
+ },
+ "annual": {
+  "periods": [
+   "Mar 2015",
+   "Mar 2016",
+   "Mar 2017",
+   "Mar 2018",
+   "Mar 2019",
+   "Mar 2020",
+   "Mar 2021",
+   "Mar 2022",
+   "Mar 2023",
+   "Mar 2024",
+   "Mar 2025",
+   "Mar 2026",
+   "TTM"
+  ],
+  "rows": {
+   "Sales": [
+    5129.0,
+    6150.0,
+    7256.0,
+    8243.0,
+    9617.0,
+    11247.0,
+    10560.0,
+    14663.0,
+    16612.0,
+    19059.0,
+    21794.0,
+    25228.0,
+    27630.0
+   ],
+   "Sales growth": [
+    18.0,
+    20.0,
+    18.0,
+    14.0,
+    17.0,
+    17.0,
+    -6.0,
+    39.0,
+    13.0,
+    15.0,
+    14.0,
+    16.0,
+    19.0
+   ],
+   "Expenses": [
+    4392.0,
+    5465.0,
+    6522.0,
+    7442.0,
+    8548.0,
+    9656.0,
+    9420.0,
+    12474.0,
+    14548.0,
+    16665.0,
+    18761.0,
+    21449.0,
+    23386.0
+   ],
+   "Operating Profit": [
+    737.0,
+    684.0,
+    734.0,
+    801.0,
+    1070.0,
+    1591.0,
+    1140.0,
+    2189.0,
+    2065.0,
+    2394.0,
+    3033.0,
+    3779.0,
+    4244.0
+   ],
+   "OPM %": [
+    14.0,
+    11.0,
+    10.0,
+    10.0,
+    11.0,
+    14.0,
+    11.0,
+    15.0,
+    12.0,
+    13.0,
+    14.0,
+    15.0,
+    15.0
+   ],
+   "Other Income": [
+    47.0,
+    92.0,
+    60.0,
+    24.0,
+    26.0,
+    222.0,
+    103.0,
+    368.0,
+    75.0,
+    123.0,
+    222.0,
+    207.0,
+    213.0
+   ],
+   "Interest": [
+    118.0,
+    180.0,
+    257.0,
+    295.0,
+    327.0,
+    533.0,
+    449.0,
+    379.0,
+    381.0,
+    449.0,
+    458.0,
+    450.0,
+    454.0
+   ],
+   "Depreciation": [
+    212.0,
+    264.0,
+    314.0,
+    359.0,
+    396.0,
+    620.0,
+    573.0,
+    601.0,
+    615.0,
+    687.0,
+    758.0,
+    876.0,
+    896.0
+   ],
+   "Profit before tax": [
+    455.0,
+    332.0,
+    222.0,
+    171.0,
+    373.0,
+    660.0,
+    221.0,
+    1578.0,
+    1144.0,
+    1380.0,
+    2039.0,
+    2661.0,
+    3107.0
+   ],
+   "Tax %": [
+    29.0,
+    29.0,
+    41.0,
+    65.0,
+    47.0,
+    34.0,
+    38.0,
+    30.0,
+    22.0,
+    32.0,
+    26.0,
+    25.0,
+    null
+   ],
+   "Net Profit": [
+    335.0,
+    235.0,
+    131.0,
+    60.0,
+    200.0,
+    432.0,
+    137.0,
+    1108.0,
+    844.0,
+    935.0,
+    1505.0,
+    2003.0,
+    2338.0
+   ],
+   "EPS in Rs": [
+    24.43,
+    16.99,
+    15.88,
+    8.44,
+    16.96,
+    32.7,
+    10.46,
+    73.42,
+    56.97,
+    62.5,
+    100.56,
+    135.04,
+    155.94
+   ],
+   "Dividend Payout %": [
+    24.0,
+    35.0,
+    38.0,
+    59.0,
+    35.0,
+    18.0,
+    29.0,
+    16.0,
+    26.0,
+    26.0,
+    13.0,
+    15.0,
+    null
+   ]
+  },
+  "pdfs": []
+ },
+ "balance_sheet": {
+  "periods": [
+   "Mar 2015",
+   "Mar 2016",
+   "Mar 2017",
+   "Mar 2018",
+   "Mar 2019",
+   "Mar 2020",
+   "Mar 2021",
+   "Mar 2022",
+   "Mar 2023",
+   "Mar 2024",
+   "Mar 2025",
+   "Mar 2026",
+   "Sep 2026"
+  ],
+  "rows": {
+   "Equity Capital": [
+    70.0,
+    70.0,
+    70.0,
+    70.0,
+    70.0,
+    70.0,
+    72.0,
+    72.0,
+    72.0,
+    72.0,
+    72.0,
+    72.0,
+    72.0
+   ],
+   "Reserves": [
+    3102.0,
+    3262.0,
+    3244.0,
+    3182.0,
+    3264.0,
+    3270.0,
+    4531.0,
+    5551.0,
+    6126.0,
+    6864.0,
+    8140.0,
+    9408.0,
+    10532.0
+   ],
+   "Borrowings": [
+    1992.0,
+    2834.0,
+    3125.0,
+    3427.0,
+    3673.0,
+    3596.0,
+    4160.0,
+    4068.0,
+    4332.0,
+    5333.0,
+    7864.0,
+    8493.0,
+    8149.0
+   ],
+   "Other Liabilities": [
+    1296.0,
+    1195.0,
+    1665.0,
+    1917.0,
+    2159.0,
+    4354.0,
+    2629.0,
+    3570.0,
+    3886.0,
+    4474.0,
+    4568.0,
+    4210.0,
+    5469.0
+   ],
+   "Total Liabilities": [
+    6459.0,
+    7360.0,
+    8103.0,
+    8596.0,
+    9166.0,
+    11289.0,
+    11392.0,
+    13261.0,
+    14416.0,
+    16742.0,
+    20644.0,
+    22183.0,
+    24222.0
+   ],
+   "Fixed Assets": [
+    3244.0,
+    3997.0,
+    4591.0,
+    4773.0,
+    4982.0,
+    7432.0,
+    6778.0,
+    8296.0,
+    8520.0,
+    9664.0,
+    10988.0,
+    12272.0,
+    12246.0
+   ],
+   "CWIP": [
+    533.0,
+    562.0,
+    347.0,
+    712.0,
+    822.0,
+    236.0,
+    234.0,
+    46.0,
+    610.0,
+    873.0,
+    921.0,
+    1032.0,
+    1494.0
+   ],
+   "Investments": [
+    311.0,
+    352.0,
+    406.0,
+    352.0,
+    462.0,
+    434.0,
+    1343.0,
+    816.0,
+    574.0,
+    986.0,
+    2487.0,
+    2179.0,
+    2192.0
+   ],
+   "Other Assets": [
+    2372.0,
+    2448.0,
+    2759.0,
+    2759.0,
+    2901.0,
+    3187.0,
+    3037.0,
+    4104.0,
+    4712.0,
+    5219.0,
+    6248.0,
+    6700.0,
+    8291.0
+   ],
+   "Total Assets": [
+    6459.0,
+    7360.0,
+    8103.0,
+    8596.0,
+    9166.0,
+    11289.0,
+    11392.0,
+    13261.0,
+    14416.0,
+    16742.0,
+    20644.0,
+    22183.0,
+    24222.0
+   ]
+  },
+  "pdfs": []
+ },
+ "cash_flow": {
+  "periods": [
+   "Mar 2015",
+   "Mar 2016",
+   "Mar 2017",
+   "Mar 2018",
+   "Mar 2019",
+   "Mar 2020",
+   "Mar 2021",
+   "Mar 2022",
+   "Mar 2023",
+   "Mar 2024",
+   "Mar 2025",
+   "Mar 2026"
+  ],
+  "rows": {
+   "Cash from Operating Activity": [
+    470.0,
+    597.0,
+    623.0,
+    537.0,
+    905.0,
+    1293.0,
+    1265.0,
+    1696.0,
+    1377.0,
+    1920.0,
+    2136.0,
+    2856.0
+   ],
+   "Cash from Investing Activity": [
+    -759.0,
+    -888.0,
+    -1152.0,
+    -405.0,
+    -711.0,
+    -289.0,
+    -880.0,
+    -747.0,
+    -857.0,
+    -1537.0,
+    -3383.0,
+    -2145.0
+   ],
+   "Cash from Financing Activity": [
+    392.0,
+    330.0,
+    477.0,
+    -108.0,
+    -215.0,
+    -910.0,
+    -340.0,
+    -792.0,
+    -633.0,
+    -311.0,
+    1319.0,
+    -478.0
+   ],
+   "Net Cash Flow": [
+    103.0,
+    39.0,
+    -52.0,
+    24.0,
+    -20.0,
+    94.0,
+    44.0,
+    158.0,
+    -113.0,
+    72.0,
+    73.0,
+    233.0
+   ],
+   "Free Cash Flow": [
+    -396.0,
+    -393.0,
+    -46.0,
+    -84.0,
+    233.0,
+    782.0,
+    984.0,
+    1044.0,
+    252.0,
+    785.0,
+    439.0,
+    925.0
+   ],
+   "CFO/EBITDA Share of operating profit converting into cash: CFO (before tax) / Operating Profit": [
+    77.0,
+    108.0,
+    103.0,
+    83.0,
+    103.0,
+    100.0,
+    108.0,
+    87.0,
+    85.0,
+    100.0,
+    86.0,
+    92.0
+   ]
+  },
+  "pdfs": []
+ },
+ "efficiency": {
+  "periods": [
+   "Mar 2015",
+   "Mar 2016",
+   "Mar 2017",
+   "Mar 2018",
+   "Mar 2019",
+   "Mar 2020",
+   "Mar 2021",
+   "Mar 2022",
+   "Mar 2023",
+   "Mar 2024",
+   "Mar 2025",
+   "Mar 2026"
+  ],
+  "rows": {
+   "Debtor Days": [
+    43.0,
+    36.0,
+    38.0,
+    37.0,
+    39.0,
+    33.0,
+    46.0,
+    44.0,
+    49.0,
+    48.0,
+    51.0,
+    50.0
+   ],
+   "Inventory Days": [
+    50.0,
+    49.0,
+    47.0,
+    51.0,
+    46.0,
+    49.0,
+    16.0,
+    21.0,
+    17.0,
+    17.0,
+    16.0,
+    15.0
+   ],
+   "Days Payable": [
+    59.0,
+    66.0,
+    51.0,
+    55.0,
+    56.0,
+    60.0,
+    74.0,
+    79.0,
+    82.0,
+    88.0,
+    72.0,
+    63.0
+   ],
+   "Cash Conversion Cycle": [
+    34.0,
+    19.0,
+    34.0,
+    33.0,
+    29.0,
+    22.0,
+    -12.0,
+    -14.0,
+    -16.0,
+    -23.0,
+    -6.0,
+    3.0
+   ],
+   "Working Capital Days": [
+    24.0,
+    16.0,
+    27.0,
+    8.0,
+    -3.0,
+    -8.0,
+    -4.0,
+    5.0,
+    -1.0,
+    -19.0,
+    -6.0,
+    -25.0
+   ],
+   "ROCE %": [
+    12.0,
+    9.0,
+    8.0,
+    7.0,
+    10.0,
+    14.0,
+    8.0,
+    17.0,
+    14.0,
+    15.0,
+    17.0,
+    17.0
+   ]
+  },
+  "pdfs": []
+ },
+ "shareholding": {
+  "periods": [
+   "Dec 2023",
+   "Mar 2024",
+   "Jun 2024",
+   "Sep 2024",
+   "Dec 2024",
+   "Mar 2025",
+   "Jun 2025",
+   "Sep 2025",
+   "Dec 2025",
+   "Mar 2026",
+   "Jun 2026",
+   "Sep 2026"
+  ],
+  "rows": {
+   "Promoters": [
+    29.33,
+    29.33,
+    29.33,
+    29.33,
+    29.33,
+    29.34,
+    29.34,
+    28.02,
+    28.02,
+    28.02,
+    28.02,
+    28.02
+   ],
+   "FIIs": [
+    46.25,
+    45.63,
+    43.92,
+    45.37,
+    45.27,
+    42.74,
+    43.49,
+    44.2,
+    43.54,
+    42.62,
+    41.49,
+    43.19
+   ],
+   "DIIs": [
+    18.87,
+    19.55,
+    21.13,
+    19.94,
+    19.97,
+    22.29,
+    21.34,
+    21.12,
+    21.5,
+    22.76,
+    23.72,
+    22.07
+   ],
+   "Government": [
+    0.23,
+    0.23,
+    0.23,
+    0.23,
+    0.23,
+    0.23,
+    0.23,
+    0.23,
+    0.23,
+    0.23,
+    0.23,
+    0.23
+   ],
+   "Public": [
+    5.32,
+    5.26,
+    5.38,
+    5.12,
+    5.21,
+    5.41,
+    5.61,
+    6.43,
+    6.71,
+    6.39,
+    6.53,
+    6.49
+   ],
+   "No. of Shareholders": [
+    119578.0,
+    130664.0,
+    127754.0,
+    119245.0,
+    127802.0,
+    134058.0,
+    141007.0,
+    160556.0,
+    178648.0,
+    174610.0,
+    174281.0,
+    172863.0
+   ]
+  },
+  "pdfs": []
+ },
+ "documents": {
+  "announcements": [
+   {
+    "title": "Analyst / Investor Meet - Outcome",
+    "detail": "Apollo Hospitals posted transcript of Q2 FY27 earnings call for results ended September 30, 2026.",
+    "ts": "2026-11-11T09:56:29+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7738a46d-6401-47fd-8247-8cfa7e08df87.pdf"
+   },
+   {
+    "title": "Analyst / Investor Meet - Outcome",
+    "detail": "Audio recording of analyst call on Q2 FY2027 results posted on company website.",
+    "ts": "2026-11-06T11:14:24+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ec74d64c-fbf9-402e-be14-73ea84500460.pdf"
+   },
+   {
+    "title": "Analyst / Investor Meet - Intimation",
+    "detail": "Apollo Hospitals released its Q2 FY27 and H1 FY27 investor presentation and financial results.",
+    "ts": "2026-11-04T18:54:36+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07d2ef05-77bf-4d0c-91e5-420c92221f1e.pdf"
+   },
+   {
+    "title": "Meeting Updates",
+    "detail": "Board approved Q2 FY27 results; Dr. Madhu Sasidhar exits Nov 14, and AHLL completed Cloudnine divestment.",
+    "ts": "2026-11-04T18:17:48+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=90bc36be-8aa4-490d-bc68-0dfd119a8ef3.pdf"
+   },
+   {
+    "title": "Change in Management",
+    "detail": "Apollo Hospitals approved Q2 FY27 results; CEO Madhu Sasidhar exits Nov 14, AHLL completed Cloudnine divestment Nov 3.",
+    "ts": "2026-11-04T18:12:59+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0572b43d-b68f-424a-8a96-1814d4dd2064.pdf"
+   }
+  ],
+  "annual_reports": [
+   {
+    "year": 2026,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f9b40997-8116-48ba-949a-ca2e7775e3c2.pdf"
+   },
+   {
+    "year": 2025,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/330724b4-fb72-4577-beb0-598b4672f77a.pdf"
+   },
+   {
+    "year": 2024,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/93fc23fd-104c-47e7-bfc9-cf91d3d41e33.pdf"
+   },
+   {
+    "year": 2023,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/30d2900c-1d8f-4110-abf9-5e477e6ace9e.pdf"
+   },
+   {
+    "year": 2022,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/508869/74069508869.pdf"
+   },
+   {
+    "year": 2021,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/508869/69378508869.pdf"
+   },
+   {
+    "year": 2020,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/508869/65485508869.pdf"
+   },
+   {
+    "year": 2019,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/508869/5088690319.pdf"
+   },
+   {
+    "year": 2018,
+    "url": "https://www.bseindia.com/HIS_ANN_RPT/HISTANNR/2018/APOLLO_HOSPITALS_ENTERPRISE_LTD-508869-MARCH-2018.PDF"
+   },
+   {
+    "year": 2017,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/508869/5088690317.pdf"
+   },
+   {
+    "year": 2016,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/508869/5088690316.pdf"
+   },
+   {
+    "year": 2015,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/508869/5088690315.pdf"
+   },
+   {
+    "year": 2014,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/508869/5088690314.pdf"
+   },
+   {
+    "year": 2013,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/508869/5088690313.pdf"
+   },
+   {
+    "year": 2012,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/508869/5088690312.pdf"
+   }
+  ],
+  "concalls": [
+   {
+    "period": "Nov 2026",
+    "transcript": "https://www.apollohospitals.com/sites/default/files/2026-11/transcript-of-apollo-hospitals---q2-fy27-earnings-call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Aug 2026",
+    "transcript": "https://www.apollohospitals.com/sites/default/files/2026-08/transcript-of-apollo-hospitals---q1-fy27-earnings-call.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0a967b34-eaeb-44d0-82d8-5ff46e9b171f.pdf"
+   },
+   {
+    "period": "May 2026",
+    "transcript": "https://www.apollohospitals.com/sites/default/files/2026-05/transcript-of-apollo-hospitals---q4-fy26-earnings-call.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7cfb1747-054b-47c2-8073-a98cba8daca0.pdf"
+   },
+   {
+    "period": "Feb 2026",
+    "transcript": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2026-02/transcript-of-ahel-q3fy26-concall_11feb2026.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2256258c-6663-42bc-866c-402f5dcc1cae.pdf"
+   },
+   {
+    "period": "Nov 2025",
+    "transcript": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-11/transcript-of-apollo-hospitals---q2-fy26-earnings-call---7-november-2025....pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4430a828-14c2-4c64-8cff-b68f1a2904f1.pdf"
+   },
+   {
+    "period": "Aug 2025",
+    "transcript": "https://www.apollohospitals.com/sites/default/files/2025-08/transcript-of-apollo-hospitals---q1-fy26-earnings-call---13-august-2025.pdf",
+    "ppt": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-08/ahel-q1fy26-earnings-update.pdf"
+   },
+   {
+    "period": "Jun 2025",
+    "transcript": "https://www.apollohospitals.com/sites/default/files/2025-06/transcript-of-apollo-hospitals---q4-fy25-earnings-call---1-.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f30907dc-d76c-4a3b-bbf9-7a8b5121223c.pdf"
+   },
+   {
+    "period": "May 2025",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b850535c-b6c7-417c-9899-007a8bd0d2c8.pdf"
+   },
+   {
+    "period": "May 2025",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=14a059cf-24b8-4d1a-a641-c917bfff7dda.pdf"
+   },
+   {
+    "period": "Feb 2025",
+    "transcript": "https://cdn.apollohospitals.com/apollohospitals/apollo_pdf/Transcript-of-Apollo-Hospitals-Q3-FY25.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dce7bcc1-c27f-4f71-87bb-fd3e836c1c2e.pdf"
+   },
+   {
+    "period": "Nov 2024",
+    "transcript": "https://www.apollohospitals.com/apollo-pdf/Transcript-of-Apollo-Hospitals-02-FY25.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5c8e1593-fa2f-4a22-b0c9-c6c05d77e1f1.pdf"
+   },
+   {
+    "period": "Aug 2024",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript-of-Apollo-Hospitals-Q1-FY25.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7080cbe6-f674-42ae-a86b-6ffb155e4b13.pdf"
+   },
+   {
+    "period": "May 2024",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript-of-Apollo-Hospitals-Q4-FY24.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=406daf7a-494f-4413-9bcd-c0bd50753640.pdf"
+   },
+   {
+    "period": "Apr 2024",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2faa7e2f-97ab-40df-9cbe-a4e59085f27d.pdf"
+   },
+   {
+    "period": "Feb 2024",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript-of-Apollo-Hospitals-Q3-FY24.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1bfd4792-5f3f-4f7a-9258-8d9300dc4dd3.pdf"
+   },
+   {
+    "period": "Nov 2023",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript-of-Apollo-Hospitals-Q2-FY24.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=45b8350c-9cee-4c6a-890b-e0da6ec53028.pdf"
+   },
+   {
+    "period": "Aug 2023",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript-of-apollo-hospitals-Q1-FY24.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d8f2c8a7-22c8-4d1d-8f48-0a38125770aa.pdf"
+   },
+   {
+    "period": "May 2023",
+    "transcript": "https://cdn.apollohospitals.com/dev-apollohospitals/2023/06/Transcript-of-Apollo-Hospitals-Q4-FY23-Earnings-Call-31-May-2023.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cf764741-a6db-4794-9622-ebad7e16a5ca.pdf"
+   },
+   {
+    "period": "Feb 2023",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript-of-Apollo-Hospitals-Q3-FY23-Earnings-Call-15-February-2023.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5edc0e33-1308-4f7b-bc05-269a780fab74.pdf"
+   },
+   {
+    "period": "Nov 2022",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript-Q2-FY23.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=004a0047-80ac-47ce-bf6b-755505b29c66.pdf"
+   },
+   {
+    "period": "Aug 2022",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript-Q1-FY23.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2f745eba-9fb1-4a3e-93bd-fa217a6201ea.pdf"
+   },
+   {
+    "period": "May 2022",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b25a9ffe-b4a6-4942-8238-6d7d4f501f5d.pdf"
+   },
+   {
+    "period": "Nov 2021",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=345f32bf-f84d-4f53-babb-300fd5eadfd6.pdf"
+   },
+   {
+    "period": "Aug 2021",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript-of-Apollo-Hospitals-Q1-FY22-Earnings-Call-14-August-2021.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a5debafc-5df9-4740-9757-c8a1682f565d.pdf"
+   },
+   {
+    "period": "Jun 2021",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9c09a339-82bb-4ba3-b498-fde0e74c335d.pdf"
+   },
+   {
+    "period": "Jun 2021",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a6a64c84-3719-43d2-9ce5-3943605ff416.pdf"
+   },
+   {
+    "period": "Jun 2021",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=994f71ca-1de4-430a-ac6e-1e0d90516364.pdf"
+   },
+   {
+    "period": "Nov 2020",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript%20of%20Apollo%20Hospitals%20_%20Q2%20FY21%20Earnings%20Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Sep 2020",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript%20of%20Apollo%20Hospitals%20_%20Q1%20FY21%20Earnings%20Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Jun 2020",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript%20of%20Apollo%20Hospitals%20_%20Q4%20FY20%20Earnings%20Call.pdf",
+    "ppt": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-02/ahel-q4fy20-earnings-update-new.pdf"
+   },
+   {
+    "period": "Feb 2020",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript%20of%20Apollo%20Hospitals%20_%20Q3%20FY20%20Earnings%20Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Nov 2019",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript%20of%20Apollo%20Hospitals%20_%20Q2%20FY20%20Earnings%20Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Aug 2019",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript%20of%20Apollo%20Hospitals%20_%20Q1%20FY20%20Earnings%20Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "May 2019",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript%20of%20Apollo%20Hospitals_Q4FY19%20Earnings%20Call.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=37d8afdf-3091-4aaf-9cc9-2c5acb0daf35.pdf"
+   },
+   {
+    "period": "Feb 2019",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript%20of%20Apollo%20Hospitals_Q3%20FY19%20Earnings%20Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Nov 2018",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript%20of%20Apollo%20Hospitals_Q2%20FY19%20Earnings%20Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Aug 2018",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript%20of%20Apollo%20Hospitals_Q1%20FY19%20Earnings%20Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "May 2018",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript%20of%20Apollo%20Hospitals%20Q4FY18%20Earnings%20Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Feb 2018",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript%20of%20Apollo%20Hospitals%20Q3FY18%20Earnings%20Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Nov 2017",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript%20of%20Apollo%20Hospitals%20Q2FY18%20Earnings%20Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Aug 2017",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript%20of%20Apollo%20Hospitals%20Q1FY18%20Earnings%20Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Apr 2017",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript%20of%20Apollo%20Hospitals%20_%20Q4%20FY17%20Earnings%20Call.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d78c6bd9-fc5c-486b-a929-dbdbfd8be3d5.pdf"
+   },
+   {
+    "period": "Nov 2016",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Transcript%20of%20Apollo%20Hospitals%20_%20Q2%20FY17%20Earnings%20Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Feb 2016",
+    "transcript": "https://www.apollohospitals.com/apollo_pdf/Apollo%20Hospitals_Q3FY16%20Transcript.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Nov 2015",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9705E29F_6A4D_42BD_AE38_2902C989C617_115116.pdf"
+   }
+  ]
+ }
+}

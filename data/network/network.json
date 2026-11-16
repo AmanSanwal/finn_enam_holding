@@ -1,0 +1,1846 @@
+{
+ "you": {
+  "id": "you",
+  "name": "You",
+  "role": "Portfolio Manager, Riverstone Capital",
+  "career": [
+   {
+    "org": "KOTAK_IE",
+    "role": "Research Analyst — Financials",
+    "from": 2013,
+    "to": 2018
+   },
+   {
+    "org": "RIVERSTONE",
+    "role": "Portfolio Manager",
+    "from": 2018,
+    "to": null
+   }
+  ],
+  "education": [
+   {
+    "org": "IITK",
+    "degree": "B.Tech",
+    "year": 2009
+   },
+   {
+    "org": "IIMB",
+    "degree": "PGP",
+    "year": 2013
+   }
+  ]
+ },
+ "contacts": [
+  {
+   "id": "c01",
+   "name": "Rohit Bansal",
+   "headline": "Head of Risk, Northbridge Finance",
+   "career": [
+    {
+     "org": "BOB",
+     "role": "Credit Manager → Chief Manager, Credit",
+     "from": 2005,
+     "to": 2016,
+     "seniority": 2
+    },
+    {
+     "org": "PSB",
+     "role": "Chief Credit Officer",
+     "from": 2016,
+     "to": 2022,
+     "seniority": 3
+    },
+    {
+     "org": "NORTHBRIDGE",
+     "role": "Head of Risk",
+     "from": 2022,
+     "to": null,
+     "seniority": 3
+    }
+   ],
+   "education": [
+    {
+     "org": "IIML",
+     "degree": "PGP",
+     "year": 2004
+    },
+    {
+     "org": "IIBF",
+     "degree": "CAIIB",
+     "year": 2008
+    }
+   ],
+   "how_met": "Met at an RBI risk-management conference, 2022",
+   "last_contact": "2026-03-12",
+   "touchpoints_12m": 3,
+   "tags": [
+    "banking risk",
+    "PSU banks",
+    "credit"
+   ],
+   "notes": "Sharp on PSU bank risk culture; candid.",
+   "knows": []
+  },
+  {
+   "id": "c02",
+   "name": "Priya Raman",
+   "headline": "Founder-CEO, Sahay Microfinance",
+   "career": [
+    {
+     "org": "EQUITASBNK",
+     "role": "Regional Business Head — Tamil Nadu",
+     "from": 2012,
+     "to": 2021,
+     "seniority": 3
+    },
+    {
+     "org": "SAHAY",
+     "role": "Founder & CEO",
+     "from": 2021,
+     "to": null,
+     "seniority": 4
+    }
+   ],
+   "education": [
+    {
+     "org": "IIMB",
+     "degree": "PGP",
+     "year": 2011
+    }
+   ],
+   "how_met": "IIM Bangalore senior (2011); dinner circuit",
+   "last_contact": "2026-09-02",
+   "touchpoints_12m": 6,
+   "tags": [
+    "microfinance",
+    "rural lending",
+    "SFB"
+   ],
+   "notes": "Knows Equitas' branch network and collections culture inside out.",
+   "knows": [
+    {
+     "person": "c15",
+     "strength": 0.7
+    }
+   ]
+  },
+  {
+   "id": "c03",
+   "name": "Arjun Mehta",
+   "headline": "PM, Long-only fund (friend)",
+   "career": [
+    {
+     "org": "KOTAK_IE",
+     "role": "Analyst — Autos",
+     "from": 2013,
+     "to": 2017,
+     "seniority": 2
+    },
+    {
+     "org": "RIVERSTONE",
+     "role": "—",
+     "from": 2017,
+     "to": 2017,
+     "seniority": 1
+    }
+   ],
+   "education": [
+    {
+     "org": "IITK",
+     "degree": "B.Tech",
+     "year": 2009
+    }
+   ],
+   "how_met": "IIT Kanpur batchmate; ex-colleague at Kotak",
+   "last_contact": "2026-11-02",
+   "touchpoints_12m": 22,
+   "tags": [
+    "generalist",
+    "autos"
+   ],
+   "notes": "Closest market friend.",
+   "knows": []
+  },
+  {
+   "id": "c04",
+   "name": "Dr. Kavya Iyer",
+   "headline": "Healthcare operations advisor",
+   "career": [
+    {
+     "org": "APOLLOHOSP",
+     "role": "VP, Hospital Operations (South)",
+     "from": 2011,
+     "to": 2021,
+     "seniority": 3
+    },
+    {
+     "org": "MAXHEALTH",
+     "role": "Advisor",
+     "from": 2022,
+     "to": 2024,
+     "seniority": 2
+    }
+   ],
+   "education": [
+    {
+     "org": "IIMA",
+     "degree": "PGPX",
+     "year": 2010
+    }
+   ],
+   "how_met": "Met at a healthcare investor day, 2023",
+   "last_contact": "2026-02-20",
+   "touchpoints_12m": 2,
+   "tags": [
+    "healthcare",
+    "hospitals"
+   ],
+   "notes": "Ran cluster P&Ls at Apollo; knows the leadership bench.",
+   "knows": []
+  },
+  {
+   "id": "c05",
+   "name": "Sameer Kulkarni",
+   "headline": "COO, Deccan Motors",
+   "career": [
+    {
+     "org": "CGPOWER",
+     "role": "Plant Head — Motors, Aurangabad (Waluj)",
+     "from": 2011,
+     "to": 2019,
+     "seniority": 3
+    },
+    {
+     "org": "DECCAN",
+     "role": "Chief Operating Officer",
+     "from": 2019,
+     "to": null,
+     "seniority": 4
+    }
+   ],
+   "education": [
+    {
+     "org": "IITB",
+     "degree": "B.Tech",
+     "year": 2001
+    }
+   ],
+   "how_met": "Plant visit to CG Power Aurangabad, 2018",
+   "last_contact": "2025-12-05",
+   "touchpoints_12m": 1,
+   "tags": [
+    "manufacturing",
+    "motors",
+    "industrials",
+    "environmental compliance"
+   ],
+   "notes": "Ran the Waluj motors plant for 8 years.",
+   "knows": []
+  },
+  {
+   "id": "c06",
+   "name": "Neha Rao",
+   "headline": "Director, Product — Silicon Bay Semiconductors",
+   "career": [
+    {
+     "org": "KAYNES",
+     "role": "Program Manager — Industrial & Display",
+     "from": 2015,
+     "to": 2022,
+     "seniority": 2
+    },
+    {
+     "org": "SILICONBAY",
+     "role": "Director, Product",
+     "from": 2022,
+     "to": null,
+     "seniority": 3
+    }
+   ],
+   "education": [
+    {
+     "org": "IITK",
+     "degree": "M.Tech",
+     "year": 2014
+    }
+   ],
+   "how_met": "IIT Kanpur alumni meet, Bangalore 2023",
+   "last_contact": "2026-01-18",
+   "touchpoints_12m": 2,
+   "tags": [
+    "semiconductors",
+    "EMS",
+    "display modules"
+   ],
+   "notes": "Built Kaynes' display-module programme early on.",
+   "knows": []
+  },
+  {
+   "id": "c07",
+   "name": "Vikram Shah",
+   "headline": "Independent consultant, specialty chemicals",
+   "career": [
+    {
+     "org": "AARTIIND",
+     "role": "Head — Strategy & Corporate Planning",
+     "from": 2008,
+     "to": 2018,
+     "seniority": 3
+    },
+    {
+     "org": "DEEPAKNTR",
+     "role": "Advisor",
+     "from": 2019,
+     "to": 2021,
+     "seniority": 2
+    }
+   ],
+   "education": [
+    {
+     "org": "ICAI",
+     "degree": "CA",
+     "year": 2003
+    }
+   ],
+   "how_met": "Introduced by a Kotak colleague, 2019",
+   "last_contact": "2026-04-11",
+   "touchpoints_12m": 3,
+   "tags": [
+    "specialty chemicals",
+    "benzene chain",
+    "family businesses"
+   ],
+   "notes": "Worked closely with the Gogri family for a decade.",
+   "knows": []
+  },
+  {
+   "id": "c08",
+   "name": "Ananya Ghosh",
+   "headline": "Director, ECM — Kotak Investment Banking",
+   "career": [
+    {
+     "org": "KOTAK_IE",
+     "role": "Associate → Director, ECM",
+     "from": 2012,
+     "to": null,
+     "seniority": 3
+    }
+   ],
+   "education": [
+    {
+     "org": "IIMB",
+     "degree": "PGP",
+     "year": 2012
+    }
+   ],
+   "how_met": "Ex-colleague at Kotak; IIMB batch-adjacent",
+   "last_contact": "2026-10-28",
+   "touchpoints_12m": 9,
+   "tags": [
+    "capital markets",
+    "QIP",
+    "block deals"
+   ],
+   "notes": "Sees every QIP book in financials.",
+   "knows": []
+  },
+  {
+   "id": "c09",
+   "name": "Rahul Deshpande",
+   "headline": "Infrastructure advisor",
+   "career": [
+    {
+     "org": "LT",
+     "role": "Project Director — Metro & Elevated Corridors",
+     "from": 2004,
+     "to": 2020,
+     "seniority": 3
+    }
+   ],
+   "education": [
+    {
+     "org": "IITB",
+     "degree": "B.Tech",
+     "year": 1999
+    }
+   ],
+   "how_met": "Site visit, Mumbai Metro Line 3, 2019",
+   "last_contact": "2025-11-20",
+   "touchpoints_12m": 1,
+   "tags": [
+    "infra",
+    "EPC",
+    "metro"
+   ],
+   "notes": "",
+   "knows": []
+  },
+  {
+   "id": "c10",
+   "name": "Farah Siddiqui",
+   "headline": "Head of Sales, Kesar Fluorochem",
+   "career": [
+    {
+     "org": "SRF",
+     "role": "Marketing Manager — Refrigerant Gases",
+     "from": 2010,
+     "to": 2019,
+     "seniority": 2
+    },
+    {
+     "org": "KESAR",
+     "role": "Head of Sales",
+     "from": 2019,
+     "to": null,
+     "seniority": 3
+    }
+   ],
+   "education": [
+    {
+     "org": "IIMA",
+     "degree": "PGP",
+     "year": 2009
+    }
+   ],
+   "how_met": "Fluorochem industry roundtable, 2024",
+   "last_contact": "2026-05-30",
+   "touchpoints_12m": 2,
+   "tags": [
+    "fluorochemicals",
+    "refrigerants",
+    "HFC pricing"
+   ],
+   "notes": "Tracks HFC prices weekly.",
+   "knows": []
+  },
+  {
+   "id": "c11",
+   "name": "Karthik Subramanian",
+   "headline": "Founder, enterprise AI startup",
+   "career": [
+    {
+     "org": "INFY",
+     "role": "Delivery Head — BFSI",
+     "from": 2002,
+     "to": 2014,
+     "seniority": 3
+    },
+    {
+     "org": "PERSISTENT",
+     "role": "Vice President — Enterprise",
+     "from": 2014,
+     "to": 2023,
+     "seniority": 3
+    }
+   ],
+   "education": [
+    {
+     "org": "IIMB",
+     "degree": "PGP",
+     "year": 2002
+    }
+   ],
+   "how_met": "IIMB alumni event, 2022",
+   "last_contact": "2026-06-15",
+   "touchpoints_12m": 3,
+   "tags": [
+    "IT services",
+    "deal pipelines",
+    "AI services"
+   ],
+   "notes": "",
+   "knows": []
+  },
+  {
+   "id": "c12",
+   "name": "Deepa Nair",
+   "headline": "Pharma regulatory consultant",
+   "career": [
+    {
+     "org": "SUNPHARMA",
+     "role": "Head — Quality Assurance (Formulations)",
+     "from": 2010,
+     "to": 2020,
+     "seniority": 3
+    },
+    {
+     "org": "DRREDDY",
+     "role": "Consultant",
+     "from": 2021,
+     "to": 2022,
+     "seniority": 2
+    }
+   ],
+   "education": [
+    {
+     "org": "NLSIU",
+     "degree": "LLM (regulatory)",
+     "year": 2008
+    }
+   ],
+   "how_met": "USFDA compliance panel, 2023",
+   "last_contact": "2026-07-08",
+   "touchpoints_12m": 2,
+   "tags": [
+    "pharma",
+    "USFDA",
+    "plant compliance"
+   ],
+   "notes": "",
+   "knows": []
+  },
+  {
+   "id": "c13",
+   "name": "Manish Agarwal",
+   "headline": "CFO, Ledgerly SaaS",
+   "career": [
+    {
+     "org": "SUBEXLTD",
+     "role": "Financial Controller",
+     "from": 2013,
+     "to": 2019,
+     "seniority": 2
+    },
+    {
+     "org": "LEDGERLY",
+     "role": "Chief Financial Officer",
+     "from": 2019,
+     "to": null,
+     "seniority": 4
+    }
+   ],
+   "education": [
+    {
+     "org": "ICAI",
+     "degree": "CA",
+     "year": 2009
+    }
+   ],
+   "how_met": "CFO roundtable, 2024",
+   "last_contact": "2025-10-30",
+   "touchpoints_12m": 1,
+   "tags": [
+    "SaaS finance",
+    "telecom software"
+   ],
+   "notes": "Ran Subex's monthly close for six years.",
+   "knows": []
+  },
+  {
+   "id": "c14",
+   "name": "Ishaan Kapoor",
+   "headline": "VP Operations, EMS company",
+   "career": [
+    {
+     "org": "DIXON",
+     "role": "Plant Manager — Mobile Phones, Noida",
+     "from": 2017,
+     "to": 2023,
+     "seniority": 2
+    },
+    {
+     "org": "SILICONBAY",
+     "role": "VP Operations",
+     "from": 2023,
+     "to": null,
+     "seniority": 3
+    }
+   ],
+   "education": [
+    {
+     "org": "IITK",
+     "degree": "B.Tech",
+     "year": 2012
+    }
+   ],
+   "how_met": "IIT Kanpur alumni WhatsApp group",
+   "last_contact": "2026-08-21",
+   "touchpoints_12m": 4,
+   "tags": [
+    "EMS",
+    "mobile phones",
+    "PLI"
+   ],
+   "notes": "",
+   "knows": [
+    {
+     "person": "c06",
+     "strength": 0.8
+    }
+   ]
+  },
+  {
+   "id": "c15",
+   "name": "Sneha Kulkarni",
+   "headline": "Head of Analytics, RuralScore",
+   "career": [
+    {
+     "org": "CREDITACC",
+     "role": "Zonal Head — Karnataka",
+     "from": 2012,
+     "to": 2020,
+     "seniority": 3
+    },
+    {
+     "org": "CREDBUREAU",
+     "role": "Head of Analytics",
+     "from": 2020,
+     "to": null,
+     "seniority": 3
+    }
+   ],
+   "education": [
+    {
+     "org": "IIML",
+     "degree": "PGP",
+     "year": 2011
+    }
+   ],
+   "how_met": "Microfinance conference, 2024",
+   "last_contact": "2026-07-25",
+   "touchpoints_12m": 3,
+   "tags": [
+    "microfinance",
+    "rural credit bureau data",
+    "collections"
+   ],
+   "notes": "",
+   "knows": []
+  },
+  {
+   "id": "c16",
+   "name": "Aditya Jain",
+   "headline": "Chief Risk Officer, Northbridge Finance",
+   "career": [
+    {
+     "org": "BAJFINANCE",
+     "role": "Senior Manager — Risk Analytics",
+     "from": 2011,
+     "to": 2019,
+     "seniority": 2
+    },
+    {
+     "org": "NORTHBRIDGE",
+     "role": "Chief Risk Officer",
+     "from": 2019,
+     "to": null,
+     "seniority": 4
+    }
+   ],
+   "education": [
+    {
+     "org": "IITB",
+     "degree": "B.Tech",
+     "year": 2008
+    },
+    {
+     "org": "IIMA",
+     "degree": "PGP",
+     "year": 2011
+    }
+   ],
+   "how_met": "Introduced by Rohit Bansal, 2023",
+   "last_contact": "2026-05-02",
+   "touchpoints_12m": 2,
+   "tags": [
+    "consumer lending",
+    "credit risk models"
+   ],
+   "notes": "",
+   "knows": [
+    {
+     "person": "c01",
+     "strength": 0.9
+    }
+   ]
+  },
+  {
+   "id": "c17",
+   "name": "Rajesh Pillai",
+   "headline": "Advisor, auto components",
+   "career": [
+    {
+     "org": "MARUTI",
+     "role": "GM — Supply Chain",
+     "from": 1999,
+     "to": 2018,
+     "seniority": 3
+    }
+   ],
+   "education": [
+    {
+     "org": "IIMA",
+     "degree": "PGP",
+     "year": 1998
+    }
+   ],
+   "how_met": "Auto suppliers' conference, 2021",
+   "last_contact": "2026-03-01",
+   "touchpoints_12m": 1,
+   "tags": [
+    "autos",
+    "supply chain"
+   ],
+   "notes": "",
+   "knows": []
+  },
+  {
+   "id": "c18",
+   "name": "Tanvi Desai",
+   "headline": "Founder, D2C jewellery brand",
+   "career": [
+    {
+     "org": "TITAN",
+     "role": "Merchandising Lead — Tanishq",
+     "from": 2011,
+     "to": 2019,
+     "seniority": 2
+    }
+   ],
+   "education": [
+    {
+     "org": "IIMA",
+     "degree": "PGP",
+     "year": 2010
+    }
+   ],
+   "how_met": "Consumer conference, 2024",
+   "last_contact": "2026-06-02",
+   "touchpoints_12m": 2,
+   "tags": [
+    "jewellery",
+    "consumer retail"
+   ],
+   "notes": "",
+   "knows": []
+  },
+  {
+   "id": "c19",
+   "name": "Siddharth Rao",
+   "headline": "BD Head, agrochem CDMO",
+   "career": [
+    {
+     "org": "PIIND",
+     "role": "Manager — Custom Synthesis BD",
+     "from": 2010,
+     "to": 2020,
+     "seniority": 2
+    },
+    {
+     "org": "UPL",
+     "role": "Consultant",
+     "from": 2020,
+     "to": 2021,
+     "seniority": 2
+    }
+   ],
+   "education": [
+    {
+     "org": "IITB",
+     "degree": "M.Tech",
+     "year": 2009
+    }
+   ],
+   "how_met": "CPHI Mumbai, 2023",
+   "last_contact": "2026-10-10",
+   "touchpoints_12m": 4,
+   "tags": [
+    "agrochem",
+    "CSM / CDMO",
+    "specialty chemicals"
+   ],
+   "notes": "",
+   "knows": []
+  },
+  {
+   "id": "c20",
+   "name": "Lakshmi Venkatesh",
+   "headline": "Supply-chain consultant",
+   "career": [
+    {
+     "org": "ASIANPAINT",
+     "role": "Head — Supply Chain Planning",
+     "from": 2007,
+     "to": 2019,
+     "seniority": 3
+    }
+   ],
+   "education": [
+    {
+     "org": "IIMB",
+     "degree": "PGP",
+     "year": 2006
+    }
+   ],
+   "how_met": "IIMB alumni",
+   "last_contact": "2026-01-09",
+   "touchpoints_12m": 2,
+   "tags": [
+    "paints",
+    "consumer supply chain"
+   ],
+   "notes": "",
+   "knows": []
+  },
+  {
+   "id": "c21",
+   "name": "Nikhil Joshi",
+   "headline": "Sales Director, cables",
+   "career": [
+    {
+     "org": "POLYCAB",
+     "role": "Zonal Sales Head — Wires",
+     "from": 2011,
+     "to": 2020,
+     "seniority": 2
+    },
+    {
+     "org": "KEI",
+     "role": "Sales Director",
+     "from": 2020,
+     "to": null,
+     "seniority": 3
+    }
+   ],
+   "education": [
+    {
+     "org": "IIML",
+     "degree": "PGP",
+     "year": 2010
+    }
+   ],
+   "how_met": "Dealer meet in Pune, 2022",
+   "last_contact": "2026-02-14",
+   "touchpoints_12m": 1,
+   "tags": [
+    "cables & wires",
+    "channel"
+   ],
+   "notes": "",
+   "knows": []
+  },
+  {
+   "id": "c22",
+   "name": "Zoya Khan",
+   "headline": "Operator-in-residence, VC fund",
+   "career": [
+    {
+     "org": "ETERNAL",
+     "role": "Director — Quick-commerce Ops (Blinkit)",
+     "from": 2020,
+     "to": 2024,
+     "seniority": 3
+    }
+   ],
+   "education": [
+    {
+     "org": "IIMA",
+     "degree": "PGP",
+     "year": 2018
+    }
+   ],
+   "how_met": "Consumer internet roundtable, 2025",
+   "last_contact": "2026-09-19",
+   "touchpoints_12m": 3,
+   "tags": [
+    "quick commerce",
+    "consumer internet"
+   ],
+   "notes": "",
+   "knows": []
+  },
+  {
+   "id": "c23",
+   "name": "Gaurav Malhotra",
+   "headline": "Group Head — Retail Assets, HDFC Bank",
+   "career": [
+    {
+     "org": "ICICIBANK",
+     "role": "Product Manager — Mortgages",
+     "from": 2013,
+     "to": 2018,
+     "seniority": 2
+    },
+    {
+     "org": "HDFCBANK",
+     "role": "Group Head — Retail Assets",
+     "from": 2018,
+     "to": null,
+     "seniority": 3
+    }
+   ],
+   "education": [
+    {
+     "org": "IIMB",
+     "degree": "PGP",
+     "year": 2013
+    }
+   ],
+   "how_met": "IIM Bangalore batchmate (2013)",
+   "last_contact": "2026-08-30",
+   "touchpoints_12m": 5,
+   "tags": [
+    "retail lending",
+    "private banks"
+   ],
+   "notes": "Batchmate. Inside HDFC Bank.",
+   "knows": []
+  },
+  {
+   "id": "c24",
+   "name": "Pooja Srinivasan",
+   "headline": "Banking regulation consultant",
+   "career": [
+    {
+     "org": "RBI",
+     "role": "Deputy General Manager — Supervision",
+     "from": 2008,
+     "to": 2018,
+     "seniority": 3
+    }
+   ],
+   "education": [
+    {
+     "org": "IIMA",
+     "degree": "PGP",
+     "year": 2007
+    }
+   ],
+   "how_met": "Regulatory workshop, 2022",
+   "last_contact": "2026-04-28",
+   "touchpoints_12m": 2,
+   "tags": [
+    "bank regulation",
+    "RBI approvals",
+    "SFB licensing"
+   ],
+   "notes": "",
+   "knows": []
+  },
+  {
+   "id": "c25",
+   "name": "Amit Verma",
+   "headline": "Treasury head, cooperative bank",
+   "career": [
+    {
+     "org": "PSB",
+     "role": "Chief Manager — Treasury",
+     "from": 2014,
+     "to": 2020,
+     "seniority": 2
+    }
+   ],
+   "education": [
+    {
+     "org": "IIBF",
+     "degree": "CAIIB",
+     "year": 2012
+    }
+   ],
+   "how_met": "Bond-market dinner, 2021",
+   "last_contact": "2024-12-11",
+   "touchpoints_12m": 0,
+   "tags": [
+    "treasury",
+    "PSU banks"
+   ],
+   "notes": "",
+   "knows": []
+  },
+  {
+   "id": "c26",
+   "name": "Harsh Vora",
+   "headline": "Plant operations consultant",
+   "career": [
+    {
+     "org": "NAVINFLUOR",
+     "role": "Plant Manager — Surat",
+     "from": 2013,
+     "to": 2021,
+     "seniority": 3
+    },
+    {
+     "org": "KESAR",
+     "role": "Advisor",
+     "from": 2022,
+     "to": null,
+     "seniority": 2
+    }
+   ],
+   "education": [
+    {
+     "org": "IITB",
+     "degree": "B.Tech (Chem)",
+     "year": 2006
+    }
+   ],
+   "how_met": "Navin Fluorine Surat plant visit, 2020",
+   "last_contact": "2025-09-14",
+   "touchpoints_12m": 0,
+   "tags": [
+    "fluorochemicals",
+    "plant operations",
+    "HFC capacity"
+   ],
+   "notes": "Ran Surat when the earlier HFC lines were commissioned.",
+   "knows": []
+  },
+  {
+   "id": "c27",
+   "name": "Meenakshi Sundaram",
+   "headline": "Telecom strategy advisor",
+   "career": [
+    {
+     "org": "RELIANCE",
+     "role": "Strategy — Jio Enterprise",
+     "from": 2015,
+     "to": 2022,
+     "seniority": 3
+    }
+   ],
+   "education": [
+    {
+     "org": "IIMB",
+     "degree": "PGP",
+     "year": 2014
+    }
+   ],
+   "how_met": "IIMB alumni",
+   "last_contact": "2026-03-22",
+   "touchpoints_12m": 2,
+   "tags": [
+    "telecom",
+    "enterprise"
+   ],
+   "notes": "",
+   "knows": [
+    {
+     "person": "c13",
+     "strength": 0.5
+    }
+   ]
+  },
+  {
+   "id": "c28",
+   "name": "Varun Bhatia",
+   "headline": "Display supply-chain advisor",
+   "career": [
+    {
+     "org": "SHARP_IN",
+     "role": "Head — Display Modules",
+     "from": 2009,
+     "to": 2020,
+     "seniority": 3
+    },
+    {
+     "org": "SILICONBAY",
+     "role": "Advisor",
+     "from": 2021,
+     "to": null,
+     "seniority": 2
+    }
+   ],
+   "education": [
+    {
+     "org": "IITK",
+     "degree": "B.Tech",
+     "year": 2008
+    }
+   ],
+   "how_met": "IIT Kanpur seniors' network",
+   "last_contact": "2025-07-19",
+   "touchpoints_12m": 1,
+   "tags": [
+    "display modules",
+    "Japanese OEM partnerships",
+    "TFT supply chain"
+   ],
+   "notes": "Spent a decade negotiating with Japanese display partners.",
+   "knows": [
+    {
+     "person": "c06",
+     "strength": 0.6
+    }
+   ]
+  },
+  {
+   "id": "c29",
+   "name": "Shruti Menon",
+   "headline": "Partner, environmental & regulatory law",
+   "career": [
+    {
+     "org": "NLSIU",
+     "role": "—",
+     "from": 2004,
+     "to": 2009,
+     "seniority": 1
+    }
+   ],
+   "education": [
+    {
+     "org": "NLSIU",
+     "degree": "BA LLB",
+     "year": 2009
+    }
+   ],
+   "how_met": "Counsel on a portfolio company's NGT matter, 2023",
+   "last_contact": "2026-08-08",
+   "touchpoints_12m": 3,
+   "tags": [
+    "environmental law",
+    "pollution control boards",
+    "NGT"
+   ],
+   "notes": "",
+   "knows": []
+  },
+  {
+   "id": "c30",
+   "name": "Ritesh Gupta",
+   "headline": "COO, hospital chain (ex-Max)",
+   "career": [
+    {
+     "org": "MAXHEALTH",
+     "role": "Chief Operating Officer",
+     "from": 2016,
+     "to": 2024,
+     "seniority": 4
+    }
+   ],
+   "education": [
+    {
+     "org": "IIMA",
+     "degree": "PGPX",
+     "year": 2012
+    }
+   ],
+   "how_met": "Healthcare conference, 2024",
+   "last_contact": "2026-05-17",
+   "touchpoints_12m": 2,
+   "tags": [
+    "hospitals",
+    "clinical talent"
+   ],
+   "notes": "",
+   "knows": []
+  }
+ ],
+ "orgs": [
+  {
+   "id": "PSB",
+   "name": "Punjab & Sind Bank",
+   "aliases": [
+    "Punjab and Sind Bank",
+    "Punjab & Sind Bank"
+   ],
+   "industry": "psu_bank",
+   "sector": "Banking",
+   "employees": 9000,
+   "symbol": "PSB"
+  },
+  {
+   "id": "BOB",
+   "name": "Bank of Baroda",
+   "aliases": [
+    "Bank of Baroda",
+    "BoB"
+   ],
+   "industry": "psu_bank",
+   "sector": "Banking",
+   "employees": 75000,
+   "symbol": "BANKBARODA"
+  },
+  {
+   "id": "EQUITASBNK",
+   "name": "Equitas Small Finance Bank",
+   "aliases": [
+    "Equitas",
+    "Equitas Small Finance Bank",
+    "Equitas Holdings"
+   ],
+   "industry": "sfb_mfi",
+   "sector": "Rural lending",
+   "employees": 22000,
+   "symbol": "EQUITASBNK"
+  },
+  {
+   "id": "CREDITACC",
+   "name": "CreditAccess Grameen",
+   "aliases": [
+    "CreditAccess Grameen",
+    "Grameen Koota"
+   ],
+   "industry": "sfb_mfi",
+   "sector": "Rural lending",
+   "employees": 19000,
+   "symbol": "CREDITACC"
+  },
+  {
+   "id": "UJJIVAN",
+   "name": "Ujjivan Small Finance Bank",
+   "aliases": [
+    "Ujjivan"
+   ],
+   "industry": "sfb_mfi",
+   "sector": "Rural lending",
+   "employees": 20000,
+   "symbol": "UJJIVANSFB"
+  },
+  {
+   "id": "BAJFINANCE",
+   "name": "Bajaj Finance",
+   "aliases": [
+    "Bajaj Finance",
+    "Bajaj Finserv"
+   ],
+   "industry": "consumer_lending",
+   "sector": "Lending",
+   "employees": 50000,
+   "symbol": "BAJFINANCE"
+  },
+  {
+   "id": "HDFCBANK",
+   "name": "HDFC Bank",
+   "aliases": [
+    "HDFC Bank"
+   ],
+   "industry": "private_bank",
+   "sector": "Banking",
+   "employees": 210000,
+   "symbol": "HDFCBANK"
+  },
+  {
+   "id": "ICICIBANK",
+   "name": "ICICI Bank",
+   "aliases": [
+    "ICICI Bank",
+    "ICICI Securities",
+    "ICICI Prudential"
+   ],
+   "industry": "private_bank",
+   "sector": "Banking",
+   "employees": 130000,
+   "symbol": "ICICIBANK"
+  },
+  {
+   "id": "RBI",
+   "name": "Reserve Bank of India",
+   "aliases": [
+    "Reserve Bank of India",
+    "RBI"
+   ],
+   "industry": "regulator",
+   "sector": "Regulation",
+   "employees": 14000,
+   "symbol": null
+  },
+  {
+   "id": "KOTAK_IE",
+   "name": "Kotak Institutional Equities",
+   "aliases": [
+    "Kotak Institutional Equities",
+    "Kotak Securities",
+    "Kotak Investment Banking",
+    "Kotak Mahindra Capital"
+   ],
+   "industry": "broker_ib",
+   "sector": "Capital markets",
+   "employees": 3000,
+   "symbol": null
+  },
+  {
+   "id": "APOLLOHOSP",
+   "name": "Apollo Hospitals",
+   "aliases": [
+    "Apollo Hospitals",
+    "Apollo Health and Lifestyle"
+   ],
+   "industry": "hospitals",
+   "sector": "Healthcare",
+   "employees": 70000,
+   "symbol": "APOLLOHOSP"
+  },
+  {
+   "id": "MAXHEALTH",
+   "name": "Max Healthcare",
+   "aliases": [
+    "Max Healthcare"
+   ],
+   "industry": "hospitals",
+   "sector": "Healthcare",
+   "employees": 25000,
+   "symbol": "MAXHEALTH"
+  },
+  {
+   "id": "CGPOWER",
+   "name": "CG Power & Industrial Solutions",
+   "aliases": [
+    "CG Power",
+    "Crompton Greaves",
+    "CG Semi"
+   ],
+   "industry": "electricals",
+   "sector": "Industrials",
+   "employees": 7000,
+   "symbol": "CGPOWER"
+  },
+  {
+   "id": "SIEMENS",
+   "name": "Siemens India",
+   "aliases": [
+    "Siemens"
+   ],
+   "industry": "electricals",
+   "sector": "Industrials",
+   "employees": 9000,
+   "symbol": "SIEMENS"
+  },
+  {
+   "id": "KAYNES",
+   "name": "Kaynes Technology",
+   "aliases": [
+    "Kaynes Technology",
+    "Kaynes"
+   ],
+   "industry": "ems",
+   "sector": "Electronics",
+   "employees": 4500,
+   "symbol": "KAYNES"
+  },
+  {
+   "id": "DIXON",
+   "name": "Dixon Technologies",
+   "aliases": [
+    "Dixon Technologies",
+    "Dixon"
+   ],
+   "industry": "ems",
+   "sector": "Electronics",
+   "employees": 30000,
+   "symbol": "DIXON"
+  },
+  {
+   "id": "SHARP_IN",
+   "name": "Sharp Business Systems India",
+   "aliases": [
+    "Sharp India",
+    "Sharp Business Systems"
+   ],
+   "industry": "display",
+   "sector": "Electronics",
+   "employees": 800,
+   "symbol": null
+  },
+  {
+   "id": "AARTIIND",
+   "name": "Aarti Industries",
+   "aliases": [
+    "Aarti Industries"
+   ],
+   "industry": "specialty_chem",
+   "sector": "Specialty chemicals",
+   "employees": 8000,
+   "symbol": "AARTIIND"
+  },
+  {
+   "id": "DEEPAKNTR",
+   "name": "Deepak Nitrite",
+   "aliases": [
+    "Deepak Nitrite"
+   ],
+   "industry": "specialty_chem",
+   "sector": "Specialty chemicals",
+   "employees": 4000,
+   "symbol": "DEEPAKNTR"
+  },
+  {
+   "id": "NAVINFLUOR",
+   "name": "Navin Fluorine International",
+   "aliases": [
+    "Navin Fluorine"
+   ],
+   "industry": "fluorochem",
+   "sector": "Specialty chemicals",
+   "employees": 2500,
+   "symbol": "NAVINFLUOR"
+  },
+  {
+   "id": "SRF",
+   "name": "SRF",
+   "aliases": [
+    "SRF Ltd",
+    "SRF Limited",
+    "SRF"
+   ],
+   "industry": "fluorochem",
+   "sector": "Specialty chemicals",
+   "employees": 8500,
+   "symbol": "SRF"
+  },
+  {
+   "id": "PIIND",
+   "name": "PI Industries",
+   "aliases": [
+    "PI Industries",
+    "P I Industries"
+   ],
+   "industry": "agrochem",
+   "sector": "Specialty chemicals",
+   "employees": 4500,
+   "symbol": "PIIND"
+  },
+  {
+   "id": "UPL",
+   "name": "UPL",
+   "aliases": [
+    "UPL"
+   ],
+   "industry": "agrochem",
+   "sector": "Specialty chemicals",
+   "employees": 10000,
+   "symbol": "UPL"
+  },
+  {
+   "id": "INFY",
+   "name": "Infosys",
+   "aliases": [
+    "Infosys",
+    "Infosys Finacle"
+   ],
+   "industry": "it_services",
+   "sector": "IT services",
+   "employees": 320000,
+   "symbol": "INFY"
+  },
+  {
+   "id": "PERSISTENT",
+   "name": "Persistent Systems",
+   "aliases": [
+    "Persistent Systems",
+    "Persistent"
+   ],
+   "industry": "it_services",
+   "sector": "IT services",
+   "employees": 24000,
+   "symbol": "PERSISTENT"
+  },
+  {
+   "id": "SUBEXLTD",
+   "name": "Subex",
+   "aliases": [
+    "Subex"
+   ],
+   "industry": "telecom_software",
+   "sector": "Telecom software",
+   "employees": 1100,
+   "symbol": "SUBEXLTD"
+  },
+  {
+   "id": "RELIANCE",
+   "name": "Reliance Industries",
+   "aliases": [
+    "Reliance Industries",
+    "Reliance Jio",
+    "Jio Platforms",
+    "Reliance Retail"
+   ],
+   "industry": "conglomerate",
+   "sector": "Conglomerate",
+   "employees": 350000,
+   "symbol": "RELIANCE"
+  },
+  {
+   "id": "SUNPHARMA",
+   "name": "Sun Pharmaceutical Industries",
+   "aliases": [
+    "Sun Pharma",
+    "Sun Pharmaceutical"
+   ],
+   "industry": "pharma",
+   "sector": "Pharma",
+   "employees": 43000,
+   "symbol": "SUNPHARMA"
+  },
+  {
+   "id": "DRREDDY",
+   "name": "Dr. Reddy's Laboratories",
+   "aliases": [
+    "Dr. Reddy's",
+    "Dr Reddys"
+   ],
+   "industry": "pharma",
+   "sector": "Pharma",
+   "employees": 26000,
+   "symbol": "DRREDDY"
+  },
+  {
+   "id": "MARUTI",
+   "name": "Maruti Suzuki India",
+   "aliases": [
+    "Maruti Suzuki",
+    "Maruti"
+   ],
+   "industry": "autos",
+   "sector": "Autos",
+   "employees": 40000,
+   "symbol": "MARUTI"
+  },
+  {
+   "id": "TITAN",
+   "name": "Titan Company",
+   "aliases": [
+    "Titan Company",
+    "Titan",
+    "Tanishq"
+   ],
+   "industry": "jewellery_consumer",
+   "sector": "Consumer",
+   "employees": 9000,
+   "symbol": "TITAN"
+  },
+  {
+   "id": "LT",
+   "name": "Larsen & Toubro",
+   "aliases": [
+    "Larsen & Toubro",
+    "L&T",
+    "Larsen and Toubro"
+   ],
+   "industry": "epc",
+   "sector": "Engineering & infra",
+   "employees": 60000,
+   "symbol": "LT"
+  },
+  {
+   "id": "KPIL",
+   "name": "Kalpataru Projects International",
+   "aliases": [
+    "Kalpataru Projects",
+    "Kalpataru Power"
+   ],
+   "industry": "epc",
+   "sector": "Engineering & infra",
+   "employees": 9000,
+   "symbol": "KPIL"
+  },
+  {
+   "id": "POLYCAB",
+   "name": "Polycab India",
+   "aliases": [
+    "Polycab"
+   ],
+   "industry": "cables",
+   "sector": "Industrials",
+   "employees": 6000,
+   "symbol": "POLYCAB"
+  },
+  {
+   "id": "KEI",
+   "name": "KEI Industries",
+   "aliases": [
+    "KEI Industries"
+   ],
+   "industry": "cables",
+   "sector": "Industrials",
+   "employees": 5000,
+   "symbol": "KEI"
+  },
+  {
+   "id": "ETERNAL",
+   "name": "Eternal (Zomato)",
+   "aliases": [
+    "Eternal",
+    "Zomato",
+    "Blinkit"
+   ],
+   "industry": "internet",
+   "sector": "Consumer internet",
+   "employees": 9000,
+   "symbol": "ETERNAL"
+  },
+  {
+   "id": "ASIANPAINT",
+   "name": "Asian Paints",
+   "aliases": [
+    "Asian Paints"
+   ],
+   "industry": "paints",
+   "sector": "Consumer",
+   "employees": 9500,
+   "symbol": "ASIANPAINT"
+  },
+  {
+   "id": "IIMA",
+   "name": "IIM Ahmedabad",
+   "aliases": [
+    "IIM Ahmedabad",
+    "Indian Institute of Management Ahmedabad"
+   ],
+   "industry": "edu",
+   "sector": "Education",
+   "employees": 0,
+   "symbol": null
+  },
+  {
+   "id": "IIMB",
+   "name": "IIM Bangalore",
+   "aliases": [
+    "IIM Bangalore",
+    "Indian Institute of Management Bangalore"
+   ],
+   "industry": "edu",
+   "sector": "Education",
+   "employees": 0,
+   "symbol": null
+  },
+  {
+   "id": "IIML",
+   "name": "IIM Lucknow",
+   "aliases": [
+    "IIM Lucknow"
+   ],
+   "industry": "edu",
+   "sector": "Education",
+   "employees": 0,
+   "symbol": null
+  },
+  {
+   "id": "IITK",
+   "name": "IIT Kanpur",
+   "aliases": [
+    "IIT Kanpur",
+    "Indian Institute of Technology Kanpur"
+   ],
+   "industry": "edu",
+   "sector": "Education",
+   "employees": 0,
+   "symbol": null
+  },
+  {
+   "id": "IITB",
+   "name": "IIT Bombay",
+   "aliases": [
+    "IIT Bombay"
+   ],
+   "industry": "edu",
+   "sector": "Education",
+   "employees": 0,
+   "symbol": null
+  },
+  {
+   "id": "ICAI",
+   "name": "ICAI (Chartered Accountant)",
+   "aliases": [
+    "Chartered Accountant",
+    "ICAI"
+   ],
+   "industry": "edu",
+   "sector": "Education",
+   "employees": 0,
+   "symbol": null
+  },
+  {
+   "id": "IIBF",
+   "name": "Indian Institute of Banking & Finance",
+   "aliases": [
+    "Indian Institute of Bankers",
+    "CAIIB",
+    "IIBF"
+   ],
+   "industry": "edu",
+   "sector": "Education",
+   "employees": 0,
+   "symbol": null
+  },
+  {
+   "id": "NLSIU",
+   "name": "NLSIU Bangalore",
+   "aliases": [
+    "National Law School",
+    "NLSIU"
+   ],
+   "industry": "edu",
+   "sector": "Education",
+   "employees": 0,
+   "symbol": null
+  },
+  {
+   "id": "NORTHBRIDGE",
+   "name": "Northbridge Finance (private NBFC)",
+   "aliases": [
+    "Northbridge Finance"
+   ],
+   "industry": "consumer_lending",
+   "sector": "Lending",
+   "employees": 600,
+   "symbol": null
+  },
+  {
+   "id": "SAHAY",
+   "name": "Sahay Microfinance (private)",
+   "aliases": [
+    "Sahay Micro"
+   ],
+   "industry": "sfb_mfi",
+   "sector": "Rural lending",
+   "employees": 900,
+   "symbol": null
+  },
+  {
+   "id": "SILICONBAY",
+   "name": "Silicon Bay Semiconductors (private)",
+   "aliases": [
+    "Silicon Bay"
+   ],
+   "industry": "semis",
+   "sector": "Electronics",
+   "employees": 400,
+   "symbol": null
+  },
+  {
+   "id": "KESAR",
+   "name": "Kesar Fluorochem (private)",
+   "aliases": [
+    "Kesar Fluorochem"
+   ],
+   "industry": "fluorochem",
+   "sector": "Specialty chemicals",
+   "employees": 700,
+   "symbol": null
+  },
+  {
+   "id": "DECCAN",
+   "name": "Deccan Motors (private)",
+   "aliases": [
+    "Deccan Motors"
+   ],
+   "industry": "electricals",
+   "sector": "Industrials",
+   "employees": 1500,
+   "symbol": null
+  },
+  {
+   "id": "LEDGERLY",
+   "name": "Ledgerly SaaS (private)",
+   "aliases": [
+    "Ledgerly"
+   ],
+   "industry": "saas",
+   "sector": "Software",
+   "employees": 300,
+   "symbol": null
+  },
+  {
+   "id": "RIVERSTONE",
+   "name": "Riverstone Capital (your fund)",
+   "aliases": [
+    "Riverstone Capital"
+   ],
+   "industry": "fund",
+   "sector": "Capital markets",
+   "employees": 40,
+   "symbol": null
+  },
+  {
+   "id": "CREDBUREAU",
+   "name": "RuralScore Analytics (private)",
+   "aliases": [
+    "RuralScore"
+   ],
+   "industry": "sfb_mfi",
+   "sector": "Rural lending",
+   "employees": 150,
+   "symbol": null
+  }
+ ],
+ "value_chain": [
+  {
+   "from": "SUBEXLTD",
+   "to": "RELIANCE",
+   "rel": "customer",
+   "note": "Telcos are Subex's customers"
+  },
+  {
+   "from": "KAYNES",
+   "to": "CGPOWER",
+   "rel": "peer_in_semis",
+   "note": "Both building OSAT/semiconductor packaging"
+  },
+  {
+   "from": "NAVINFLUOR",
+   "to": "SRF",
+   "rel": "competitor",
+   "note": "Refrigerant gases (HFCs)"
+  },
+  {
+   "from": "PIIND",
+   "to": "UPL",
+   "rel": "competitor",
+   "note": "Agrochemicals"
+  },
+  {
+   "from": "MARUTI",
+   "to": "DECCAN",
+   "rel": "supplier",
+   "note": "Motors & electricals supplier"
+  },
+  {
+   "from": "EQUITASBNK",
+   "to": "CREDITACC",
+   "rel": "competitor",
+   "note": "Microfinance / small-ticket rural lending"
+  },
+  {
+   "from": "LT",
+   "to": "KPIL",
+   "rel": "competitor",
+   "note": "EPC / transmission"
+  }
+ ],
+ "themes": {
+  "Specialty chemicals": [
+   "specialty_chem",
+   "fluorochem",
+   "agrochem"
+  ],
+  "Rural lending": [
+   "sfb_mfi"
+  ],
+  "Semiconductors & electronics": [
+   "semis",
+   "ems",
+   "display"
+  ],
+  "Banking & credit risk": [
+   "psu_bank",
+   "private_bank",
+   "regulator",
+   "consumer_lending"
+  ],
+  "Healthcare": [
+   "hospitals",
+   "pharma"
+  ],
+  "IT services & software": [
+   "it_services",
+   "telecom_software",
+   "saas"
+  ],
+  "Industrials & power equipment": [
+   "electricals",
+   "cables",
+   "epc"
+  ],
+  "Consumer": [
+   "jewellery_consumer",
+   "paints",
+   "internet",
+   "autos"
+  ],
+  "Capital markets": [
+   "broker_ib",
+   "fund"
+  ]
+ },
+ "_provenance": "SYNTHETIC. Fictional people and private companies; listed companies are real. No real person's data was scraped. See README > Network data."
+}

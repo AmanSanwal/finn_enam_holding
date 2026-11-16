@@ -1,0 +1,48 @@
+{
+ "key": "promise_delivery:KAYNES:Aug 2026",
+ "producer": "claude-opus-5-5 (reasoning tier) — generated in the build session from the same extracted inputs; no API key in the prototype",
+ "prompt_hash": "",
+ "created": "2026-11-16T13:43:29",
+ "usage": null,
+ "output": {
+  "rows": [
+   {
+    "given_in": "FY26 guidance (recounted on May 2026 call)",
+    "promise": "FY26 revenue ₹4,500 cr (~55% growth), cut to ₹4,000 cr on the Q3 call",
+    "actual": "FY26 revenue ₹3,626 cr (+33%) — 19% below the original target",
+    "status": "missed",
+    "quote": "At the start of the year, sir, we had guided … revenues of INR4,500 crores, which was subsequently toned down to INR4,000 crores, and we ended the year with close to INR3,600 crores"
+   },
+   {
+    "given_in": "Nov 2025",
+    "promise": "Company growth 'anywhere around 50% plus/minus'",
+    "actual": "FY26 +33%; H1 FY27 +20% (₹1,899 cr vs ₹1,585 cr); Q2 FY27 +4.5%",
+    "status": "missed",
+    "quote": "we expect automotive to grow at the rate of growth of our company's growth rate, which will be anywhere around 50% plus/minus"
+   },
+   {
+    "given_in": "May 2026",
+    "promise": "Smart-metering receivables (~₹600 cr) to come down 70–80% by end of Q3 FY27",
+    "actual": "Not yet testable; FY26 debtor days doubled 77 → 154 and operating cash flow was −₹600 cr",
+    "status": "too_early",
+    "quote": "the INR600 crores by end of the third quarter … at least 70% to 80% of this will come down for sure."
+   },
+   {
+    "given_in": "Aug 2026",
+    "promise": "₹500 cr combined OSAT + PCB revenue in FY27, starting Q3",
+    "actual": "Q3 FY27 not yet reported",
+    "status": "too_early",
+    "quote": "we have committed a full year revenue of totally INR500 crores between both"
+   },
+   {
+    "given_in": "Aug 2026",
+    "promise": "FY27 capex ~₹850 cr (₹300 cr OSAT, ₹300 cr PCB, ₹250 cr EMS)",
+    "actual": "Annual figure; CWIP already 34% of fixed assets, debt/equity up to 0.40",
+    "status": "too_early",
+    "quote": "this year is about INR300 crores for OSAT, INR300 crores for PCB, and about INR250 crores for EMS business."
+   }
+  ],
+  "verdict": "Kaynes has a pattern of guiding high and resetting: FY26 went ₹4,500 cr → ₹4,000 cr → ₹3,626 cr delivered, and late-2025's '~50%' growth framing has become +20% in H1 FY27 and +4.5% in Q2. The bigger gap is cash — FY26 operating cash flow of −₹600 cr against ₹364 cr profit — so the Q3 FY27 receivables promise is the test that matters.",
+  "credibility": "low"
+ }
+}

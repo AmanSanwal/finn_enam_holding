@@ -1,0 +1,1032 @@
+{
+ "symbol": "TATAELXSI",
+ "source_url": "https://www.screener.in/company/TATAELXSI/consolidated/",
+ "consolidated": true,
+ "fetched_at": "2026-11-16T13:28:36",
+ "name": "Tata Elxsi Ltd",
+ "about": "Tata Elxsi is amongst the world\u2019s leading providers of design and technology services across industries including Automotive, Media, Communications and Healthcare. Tata Elxsi provides integrated services from research and strategy, to electronics and mechanical design, software development, validation and deployment, and is supported by a network of design studios, global development centers and offices worldwide. [1]",
+ "key_points": "Business Overview: [1] Tata Elxsi provides design, engineering R&D and technology services across Transportation, Media & Communications, Healthcare and industrial products. Its services span product research, industrial design, electronics and mechanical engineering, embedded software, AI, cloud platforms, cybersecurity, testing and deployment.",
+ "bse_code": "500408",
+ "nse_symbol": "TATAELXSI",
+ "website": "http://www.tataelxsi.com",
+ "ratios": {
+  "Market Cap": 23427.0,
+  "Current Price": 3750.0,
+  "High / Low": [
+   5950.0,
+   2996.0
+  ],
+  "Stock P/E": 230.0,
+  "Book Value": 45.5,
+  "Dividend Yield": 2.0,
+  "ROCE": 60.0,
+  "ROE": 39.3,
+  "Face Value": 10.0
+ },
+ "quarters": {
+  "periods": [
+   "Mar 2012",
+   "Jun 2012",
+   "Sep 2012",
+   "Dec 2012",
+   "Mar 2013",
+   "Jun 2013",
+   "Sep 2013",
+   "Dec 2013",
+   "Mar 2014",
+   "Jun 2014",
+   "Sep 2014",
+   "Dec 2014",
+   "Mar 2015"
+  ],
+  "rows": {
+   "Sales": [
+    146.0,
+    146.0,
+    155.0,
+    157.0,
+    163.0,
+    173.0,
+    190.0,
+    200.0,
+    212.0,
+    191.0,
+    206.0,
+    221.0,
+    231.0
+   ],
+   "YoY Sales growth": [
+    18.0,
+    24.0,
+    13.0,
+    14.0,
+    12.0,
+    18.0,
+    22.0,
+    28.0,
+    29.0,
+    10.0,
+    8.0,
+    11.0,
+    9.0
+   ],
+   "Expenses": [
+    123.0,
+    133.0,
+    135.0,
+    140.0,
+    141.0,
+    160.0,
+    158.0,
+    157.0,
+    165.0,
+    153.0,
+    164.0,
+    171.0,
+    184.0
+   ],
+   "Operating Profit": [
+    22.0,
+    13.0,
+    20.0,
+    16.0,
+    22.0,
+    13.0,
+    32.0,
+    44.0,
+    47.0,
+    38.0,
+    42.0,
+    50.0,
+    47.0
+   ],
+   "OPM %": [
+    15.0,
+    9.0,
+    13.0,
+    11.0,
+    14.0,
+    8.0,
+    17.0,
+    22.0,
+    22.0,
+    20.0,
+    20.0,
+    23.0,
+    20.0
+   ],
+   "Other Income": [
+    -2.0,
+    -2.0,
+    -10.0,
+    4.0,
+    -3.0,
+    7.0,
+    7.0,
+    -1.0,
+    0.0,
+    2.0,
+    1.0,
+    0.0,
+    -1.0
+   ],
+   "Interest": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "Depreciation": [
+    5.0,
+    5.0,
+    6.0,
+    6.0,
+    6.0,
+    6.0,
+    8.0,
+    9.0,
+    12.0,
+    9.0,
+    8.0,
+    7.0,
+    1.0
+   ],
+   "Profit before tax": [
+    14.0,
+    5.0,
+    3.0,
+    13.0,
+    13.0,
+    14.0,
+    30.0,
+    33.0,
+    35.0,
+    31.0,
+    35.0,
+    43.0,
+    45.0
+   ],
+   "Tax %": [
+    25.0,
+    29.0,
+    37.0,
+    31.0,
+    36.0,
+    36.0,
+    34.0,
+    34.0,
+    38.0,
+    33.0,
+    33.0,
+    36.0,
+    34.0
+   ],
+   "Net Profit": [
+    8.0,
+    3.0,
+    2.0,
+    9.0,
+    8.0,
+    9.0,
+    20.0,
+    22.0,
+    22.0,
+    21.0,
+    24.0,
+    28.0,
+    30.0
+   ],
+   "EPS in Rs": [
+    1.33,
+    0.42,
+    0.29,
+    1.4,
+    1.31,
+    1.43,
+    3.2,
+    3.46,
+    3.51,
+    3.34,
+    3.79,
+    4.46,
+    4.79
+   ]
+  },
+  "pdfs": [
+   "https://www.screener.in/company/source/quarter/3366/3/2012/",
+   "https://www.screener.in/company/source/quarter/3366/6/2012/",
+   "https://www.screener.in/company/source/quarter/3366/9/2012/",
+   "https://www.screener.in/company/source/quarter/3366/12/2012/",
+   "https://www.screener.in/company/source/quarter/3366/3/2013/",
+   "https://www.screener.in/company/source/quarter/3366/6/2013/",
+   "https://www.screener.in/company/source/quarter/3366/9/2013/",
+   "https://www.screener.in/company/source/quarter/3366/12/2013/",
+   "https://www.screener.in/company/source/quarter/3366/3/2014/",
+   "https://www.screener.in/company/source/quarter/3366/6/2014/",
+   "https://www.screener.in/company/source/quarter/3366/9/2014/",
+   "https://www.screener.in/company/source/quarter/3366/12/2014/",
+   "https://www.screener.in/company/source/quarter/3366/3/2015/"
+  ]
+ },
+ "annual": {
+  "periods": [
+   "Mar 2008",
+   "Mar 2009",
+   "Mar 2010",
+   "Mar 2011",
+   "Mar 2012",
+   "Mar 2013",
+   "Mar 2014",
+   "Mar 2015"
+  ],
+  "rows": {
+   "Sales": [
+    402.0,
+    419.0,
+    388.0,
+    416.0,
+    539.0,
+    622.0,
+    775.0,
+    849.0
+   ],
+   "Sales growth": [
+    null,
+    4.0,
+    -7.0,
+    7.0,
+    30.0,
+    15.0,
+    25.0,
+    10.0
+   ],
+   "Expenses": [
+    327.0,
+    338.0,
+    320.0,
+    368.0,
+    464.0,
+    549.0,
+    637.0,
+    671.0
+   ],
+   "Operating Profit": [
+    75.0,
+    82.0,
+    68.0,
+    48.0,
+    75.0,
+    73.0,
+    137.0,
+    178.0
+   ],
+   "OPM %": [
+    19.0,
+    20.0,
+    18.0,
+    11.0,
+    14.0,
+    12.0,
+    18.0,
+    21.0
+   ],
+   "Other Income": [
+    2.0,
+    0.0,
+    1.0,
+    4.0,
+    4.0,
+    -11.0,
+    12.0,
+    3.0
+   ],
+   "Interest": [
+    2.0,
+    4.0,
+    2.0,
+    2.0,
+    3.0,
+    5.0,
+    3.0,
+    1.0
+   ],
+   "Depreciation": [
+    13.0,
+    16.0,
+    17.0,
+    17.0,
+    21.0,
+    24.0,
+    35.0,
+    26.0
+   ],
+   "Profit before tax": [
+    62.0,
+    62.0,
+    51.0,
+    32.0,
+    55.0,
+    33.0,
+    112.0,
+    155.0
+   ],
+   "Tax %": [
+    14.0,
+    6.0,
+    4.0,
+    -2.0,
+    30.0,
+    33.0,
+    36.0,
+    34.0
+   ],
+   "Net Profit": [
+    53.0,
+    58.0,
+    49.0,
+    33.0,
+    35.0,
+    21.0,
+    72.0,
+    102.0
+   ],
+   "EPS in Rs": [
+    8.48,
+    9.34,
+    7.84,
+    5.22,
+    5.55,
+    3.42,
+    11.6,
+    16.38
+   ],
+   "Dividend Payout %": [
+    41.0,
+    37.0,
+    45.0,
+    67.0,
+    63.0,
+    73.0,
+    39.0,
+    34.0
+   ]
+  },
+  "pdfs": []
+ },
+ "balance_sheet": {
+  "periods": [
+   "Mar 2008",
+   "Mar 2009",
+   "Mar 2010",
+   "Mar 2011",
+   "Mar 2012",
+   "Mar 2013",
+   "Mar 2014",
+   "Mar 2015"
+  ],
+  "rows": {
+   "Equity Capital": [
+    31.0,
+    31.0,
+    31.0,
+    31.0,
+    31.0,
+    31.0,
+    31.0,
+    31.0
+   ],
+   "Reserves": [
+    88.0,
+    121.0,
+    144.0,
+    151.0,
+    161.0,
+    164.0,
+    205.0,
+    252.0
+   ],
+   "Borrowings": [
+    55.0,
+    13.0,
+    34.0,
+    25.0,
+    34.0,
+    59.0,
+    0.0,
+    0.0
+   ],
+   "Other Liabilities": [
+    84.0,
+    77.0,
+    87.0,
+    94.0,
+    108.0,
+    112.0,
+    153.0,
+    182.0
+   ],
+   "Total Liabilities": [
+    259.0,
+    242.0,
+    296.0,
+    302.0,
+    335.0,
+    365.0,
+    388.0,
+    466.0
+   ],
+   "Fixed Assets": [
+    99.0,
+    97.0,
+    90.0,
+    91.0,
+    100.0,
+    99.0,
+    97.0,
+    98.0
+   ],
+   "CWIP": [
+    2.0,
+    1.0,
+    0.0,
+    12.0,
+    10.0,
+    21.0,
+    13.0,
+    3.0
+   ],
+   "Investments": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "Other Assets": [
+    158.0,
+    144.0,
+    206.0,
+    199.0,
+    224.0,
+    245.0,
+    279.0,
+    364.0
+   ],
+   "Total Assets": [
+    259.0,
+    242.0,
+    296.0,
+    302.0,
+    335.0,
+    365.0,
+    388.0,
+    466.0
+   ]
+  },
+  "pdfs": []
+ },
+ "cash_flow": {
+  "periods": [
+   "Mar 2008",
+   "Mar 2009",
+   "Mar 2010",
+   "Mar 2011",
+   "Mar 2012",
+   "Mar 2013",
+   "Mar 2014",
+   "Mar 2015"
+  ],
+  "rows": {
+   "Cash from Operating Activity": [
+    14.0,
+    80.0,
+    14.0,
+    71.0,
+    62.0,
+    38.0,
+    129.0,
+    143.0
+   ],
+   "Cash from Investing Activity": [
+    -41.0,
+    -14.0,
+    -10.0,
+    -29.0,
+    -33.0,
+    -30.0,
+    -22.0,
+    -29.0
+   ],
+   "Cash from Financing Activity": [
+    28.0,
+    -71.0,
+    -6.0,
+    -36.0,
+    -23.0,
+    -11.0,
+    -79.0,
+    -32.0
+   ],
+   "Net Cash Flow": [
+    1.0,
+    -5.0,
+    -2.0,
+    7.0,
+    6.0,
+    -4.0,
+    28.0,
+    82.0
+   ],
+   "Free Cash Flow": [
+    -27.0,
+    67.0,
+    5.0,
+    42.0,
+    34.0,
+    4.0,
+    105.0,
+    110.0
+   ],
+   "CFO/EBITDA Share of operating profit converting into cash: CFO (before tax) / Operating Profit": [
+    28.0,
+    116.0,
+    26.0,
+    170.0,
+    101.0,
+    76.0,
+    106.0,
+    102.0
+   ]
+  },
+  "pdfs": []
+ },
+ "efficiency": {
+  "periods": [
+   "Mar 2008",
+   "Mar 2009",
+   "Mar 2010",
+   "Mar 2011",
+   "Mar 2012",
+   "Mar 2013",
+   "Mar 2014",
+   "Mar 2015"
+  ],
+  "rows": {
+   "Debtor Days": [
+    95.0,
+    80.0,
+    123.0,
+    94.0,
+    85.0,
+    83.0,
+    73.0,
+    66.0
+   ],
+   "Inventory Days": [
+    2.0,
+    null,
+    1.0,
+    9.0,
+    0.0,
+    null,
+    0.0,
+    null
+   ],
+   "Days Payable": [
+    400.0,
+    null,
+    549.0,
+    678.0,
+    385.0,
+    null,
+    null,
+    null
+   ],
+   "Cash Conversion Cycle": [
+    -303.0,
+    80.0,
+    -425.0,
+    -575.0,
+    -300.0,
+    83.0,
+    73.0,
+    66.0
+   ],
+   "Working Capital Days": [
+    52.0,
+    39.0,
+    103.0,
+    15.0,
+    10.0,
+    4.0,
+    22.0,
+    10.0
+   ],
+   "ROCE %": [
+    null,
+    39.0,
+    28.0,
+    16.0,
+    27.0,
+    22.0,
+    47.0,
+    60.0
+   ]
+  },
+  "pdfs": []
+ },
+ "shareholding": {
+  "periods": [
+   "Dec 2023",
+   "Mar 2024",
+   "Jun 2024",
+   "Sep 2024",
+   "Dec 2024",
+   "Mar 2025",
+   "Jun 2025",
+   "Sep 2025",
+   "Dec 2025",
+   "Mar 2026",
+   "Jun 2026",
+   "Sep 2026"
+  ],
+  "rows": {
+   "Promoters": [
+    43.92,
+    43.92,
+    43.92,
+    43.91,
+    43.91,
+    43.91,
+    43.91,
+    43.9,
+    43.9,
+    43.9,
+    43.9,
+    43.89
+   ],
+   "FIIs": [
+    15.02,
+    14.56,
+    13.67,
+    13.65,
+    13.27,
+    12.73,
+    12.74,
+    12.53,
+    8.56,
+    11.08,
+    9.85,
+    8.0
+   ],
+   "DIIs": [
+    5.71,
+    6.06,
+    6.24,
+    7.38,
+    7.5,
+    8.54,
+    9.79,
+    10.37,
+    12.28,
+    11.39,
+    11.03,
+    9.98
+   ],
+   "Public": [
+    35.34,
+    35.47,
+    36.16,
+    35.04,
+    35.3,
+    34.82,
+    33.54,
+    33.18,
+    35.24,
+    33.62,
+    35.2,
+    38.14
+   ],
+   "No. of Shareholders": [
+    516330.0,
+    537460.0,
+    574515.0,
+    550841.0,
+    572719.0,
+    589967.0,
+    579310.0,
+    578736.0,
+    573312.0,
+    566988.0,
+    589805.0,
+    611277.0
+   ]
+  },
+  "pdfs": []
+ },
+ "documents": {
+  "announcements": [
+   {
+    "title": "Newspaper Publication",
+    "detail": "The newspaper advertisement published today i.e., November 07, 2026 regarding opening of \"Special Window for Transfer and Dematerialization of Physical Securities\"",
+    "ts": "2026-11-07T18:05:58+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6ac70ebd-6a4b-4e25-b628-444cca0cdb42.pdf"
+   },
+   {
+    "title": "Earnings Call Transcript",
+    "detail": "Transcript of the Earnings Call held on October 13, 2026.",
+    "ts": "2026-10-19T14:52:37+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=211a23af-40e5-4714-a87f-98b232e17654.pdf"
+   },
+   {
+    "title": "Newspaper Publication",
+    "detail": "Copies of Newspaper Publication regarding Audited Financial Results for the quarter and half-year ended September 30, 2026.",
+    "ts": "2026-10-14T11:19:56+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=755c3f83-bf49-4678-8f1f-97ea1fb16244.pdf"
+   },
+   {
+    "title": "Analyst / Investor Meet - Outcome",
+    "detail": "Audio recording shared for October 13, 2026 conference call on Q2 and half-year audited results.",
+    "ts": "2026-10-13T20:36:22+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f65b5569-62b2-4c52-b104-38bb948902ef.pdf"
+   },
+   {
+    "title": "Allotment of ESOP / ESPS",
+    "detail": "The intimation regarding the allotment of 686 equity shares pursuant the exercise of Stock Options by the eligible employees under Tata Elxsi Performance Stock Option \u2026",
+    "ts": "2026-10-13T18:17:32+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=185c7e11-3229-4b6c-b03c-462fd9169ffc.pdf"
+   }
+  ],
+  "annual_reports": [
+   {
+    "year": 2026,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e9e33d3a-e315-45f6-9e6b-3ef91fb6ddee.pdf"
+   },
+   {
+    "year": 2025,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e2000451-fe66-4aa4-8ba3-90bb1750c9fc.pdf"
+   },
+   {
+    "year": 2024,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/581f26b5-91d7-4d45-9825-a397d5dea1b9.pdf"
+   },
+   {
+    "year": 2023,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/97be1e14-f647-4f75-8057-bbe0c78dd233.pdf"
+   },
+   {
+    "year": 2022,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/500408/73036500408_03_06_22.pdf"
+   },
+   {
+    "year": 2021,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/500408/68501500408.pdf"
+   },
+   {
+    "year": 2020,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/500408/5004080320.pdf"
+   },
+   {
+    "year": 2019,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/500408/5004080319.pdf"
+   },
+   {
+    "year": 2018,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/500408/5004080318.pdf"
+   },
+   {
+    "year": 2017,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/500408/5004080317.pdf"
+   },
+   {
+    "year": 2016,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/500408/5004080316.pdf"
+   },
+   {
+    "year": 2015,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/500408/5004080315.pdf"
+   },
+   {
+    "year": 2014,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/500408/5004080314.pdf"
+   },
+   {
+    "year": 2013,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/500408/5004080313.pdf"
+   },
+   {
+    "year": 2012,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/500408/5004080312.pdf"
+   }
+  ],
+  "concalls": [
+   {
+    "period": "Oct 2026",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=211a23af-40e5-4714-a87f-98b232e17654.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c4b9e1d1-d40c-424b-ac60-7f3e72a2cd31.pdf"
+   },
+   {
+    "period": "Jul 2026",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a3ed22f-9093-413f-bbb3-76c8c62b4415.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2e73f96b-3566-4f10-88d7-d3ae7f3eae57.pdf"
+   },
+   {
+    "period": "Apr 2026",
+    "transcript": "https://d1y69b020rytqm.cloudfront.net/PDF/Financial-Statements/April2026/TranscriptofEarningsCall31.03.2026.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Apr 2026",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7f5cbac1-ae76-4172-b171-452a15c2e452.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=65bbb769-8aef-4324-9951-9b472b6f11b0.pdf"
+   },
+   {
+    "period": "Jan 2026",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7c86d41c-a216-49df-b4ac-136f1a115bbd.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8656eea6-e10d-4f28-bd96-6a3be6585f44.pdf"
+   },
+   {
+    "period": "Oct 2025",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c96a46fe-dbd4-4827-9b9a-3393c2a3b452.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eb75cd66-612f-40dc-b21b-4ac91822f7c7.pdf"
+   },
+   {
+    "period": "Jul 2025",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cb73cece-f44a-4dba-a33e-148184e21f00.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=62dfeaa8-14dd-47a8-9f0e-bc41023428ff.pdf"
+   },
+   {
+    "period": "Apr 2025",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3a5a382-eeb4-44a2-95c1-5e7742dc86d4.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=52b886ba-5186-44d9-858b-9868387ab97b.pdf"
+   },
+   {
+    "period": "Jan 2025",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=67063288-675d-4359-93b8-8bb3007895ba.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e71cfd29-4a10-4cbe-9875-7df6e6e3264a.pdf"
+   },
+   {
+    "period": "Oct 2024",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ce3d7459-122e-4955-97cd-a29d1ea2665f.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e127bc8f-adf6-4db6-990d-ec8bbc1d5503.pdf"
+   },
+   {
+    "period": "Jul 2024",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c6e162ed-e983-4b53-a42c-52e80cf8cc9c.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=247fdab6-d521-46ad-ba30-971745e60eeb.pdf"
+   },
+   {
+    "period": "Apr 2024",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=29a28b5d-15b1-47aa-81fc-2506a26dafc2.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=995b8042-0eb3-4345-873b-84934adc12c4.pdf"
+   },
+   {
+    "period": "Jan 2024",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=72bc0a9e-47b9-4a2e-9854-5f8240895bfb.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=45d9fbb0-d36e-429e-97cd-0dd57935db01.pdf"
+   },
+   {
+    "period": "Jan 2024",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=49af932a-00b8-442f-bb52-cd2d72288e5d.pdf"
+   },
+   {
+    "period": "Oct 2023",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a019eb28-5fe3-4d10-83ed-827a8bd2f417.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a6f2664e-7bc2-4fb5-a36b-c80f1341c2d8.pdf"
+   },
+   {
+    "period": "Jul 2023",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=37a0f530-cc3a-4c8e-b645-e30f887a5fba.pdf",
+    "ppt": null
+   },
+   {
+    "period": "May 2023",
+    "transcript": "https://tataelxsi.com/storage/financial-statements/July2023/Tata-Elxsi-Limited-Q4-FY23-Earnings-Conference-Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "May 2023",
+    "transcript": "https://tataelxsi.com/storage/financial-statements/May2023/Tata-Elxsi-Limited-Q4-FY23-Earnings-Conference-Call.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=129b554e-1dc2-4d45-be73-af9b0de24d53.pdf"
+   },
+   {
+    "period": "Jan 2023",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e35432df-5ee8-4b88-a359-425c8d1b510f.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Oct 2022",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c05c1bbb-e96b-4ad8-93ce-4069e31756cb.pdf"
+   },
+   {
+    "period": "Jul 2022",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1a99a1c2-a5c6-428b-aabb-3faca9932bb6.pdf",
+    "ppt": "https://tataelxsi.com/storage/financial-statements/July2022/Tata-Elxsi-Earnings-Presentation-and-Fact-Sheet-Q1FY23.pdf"
+   },
+   {
+    "period": "Apr 2022",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d73b5cf0-d6a4-4520-b903-30184b40660f.pdf"
+   },
+   {
+    "period": "Oct 2021",
+    "transcript": "https://tataelxsi.com/storage/financial-statements/October2021/Tata-Elxsi-Q2-FY22-Investors-Conference-Call-Transcript.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Jul 2021",
+    "transcript": "https://tataelxsi.com/storage/financial-statements/July2021/Tata-Elxsi-Q1-FY22-Investors-Conference-Call-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ccd58db5-1f79-4c78-a3bf-c2b91c5e5b0b.pdf"
+   },
+   {
+    "period": "Apr 2021",
+    "transcript": null,
+    "ppt": "https://stockdiscovery.s3.amazonaws.com/insight/india/299/Investor%20Presentation/IP-Mar21.pdf"
+   },
+   {
+    "period": "Mar 2021",
+    "transcript": "https://tataelxsi.com/storage/financial-statements/May2021/TataElxsi-Earnings-23Apr-2021.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Jan 2021",
+    "transcript": "https://tataelxsi.com/storage/financial-statements/February2021/2Xwjcl0kKmdprfw5dqQR.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dd80cdca-53f7-4477-88ba-eac49e1bf51b.pdf"
+   },
+   {
+    "period": "Oct 2020",
+    "transcript": "https://tataelxsi.com/storage/financial-statements/December2020/ZzikF55FippktkrAHBZL.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Jul 2020",
+    "transcript": "https://tataelxsi.com/storage/financial-statements/December2020/xYbosegA8qwpWCHmWYkP.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Apr 2020",
+    "transcript": "https://tataelxsi.com/storage/financial-statements/April2021/FY-20-Transcript-of-Q4-Earnings-Conference-Call%20(1).pdf",
+    "ppt": null
+   },
+   {
+    "period": "Jan 2020",
+    "transcript": "https://tataelxsi.com/storage/financial-statements/April2021/FY-20-Transcript-of-Q3-Earnings-Conference-Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Oct 2019",
+    "transcript": "https://tataelxsi.com/storage/financial-statements/April2021/FY-20-Transcript-of-Q2-Earnings-Conference-Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Jul 2019",
+    "transcript": "https://tataelxsi.com/storage/financial-statements/April2021/FY-20-Transcript-of-Q1-Earnings-Conference-Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Apr 2019",
+    "transcript": "https://tataelxsi.com/storage/financial-statements/April2021/FY19_Q4_Transcript_Earnings_Conference_Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Jan 2019",
+    "transcript": "https://tataelxsi.com/storage/financial-statements/April2021/FY19_Q3_Transcript_Earnings_Conference_Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Oct 2018",
+    "transcript": "https://tataelxsi.com/storage/financial-statements/April2021/FY19_Q2_Transcript_Earnings_Conference_Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Aug 2018",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8ddad922-61e5-4d6a-a627-3e07cd9d5dcf.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Apr 2018",
+    "transcript": "https://tataelxsi.com/storage/financial-statements/April2021/FY19_Q1_Transcript_Earnings_Conference_Call.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Jan 2018",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2c0b4e80-890f-4e7a-8b2e-2d41f5e7a341.pdf",
+    "ppt": null
+   }
+  ]
+ }
+}

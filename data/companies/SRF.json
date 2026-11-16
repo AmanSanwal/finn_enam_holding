@@ -1,0 +1,1276 @@
+{
+ "symbol": "SRF",
+ "source_url": "https://www.screener.in/company/SRF/consolidated/",
+ "consolidated": true,
+ "fetched_at": "2026-11-16T13:57:53",
+ "name": "SRF Ltd",
+ "about": "Incorporated in 1970, SRF Ltd manufactures and sells technical textiles, chemicals, packaging films, aluminum foils, and other polymers [1]",
+ "key_points": "Business Segments: [1] A) Chemicals Business (49% in FY26 vs 46% in FY25): [2] The chemical segment comprises 2 product divisions, including: a) Speciality Chemicals: The company offers a portfolio of organic and inorganic fluorinated intermediates, including trifluoro (\u2013CF\u2083), chlorodifluoro (\u2013CClF\u2082), difluoro (\u2013CHF\u2082), and hexafluoro ((\u2013CF\u2083)\u2082) products, catering to applications across material sciences, surface chemistry, agrochemicals, and pharmaceuticals. b) Fluorochemicals: It manufactures refrigerants (such as R22 and HFC blends), pharmaceutical propellants, chloromethanes, hydrogen fluoride (HF), and other fluorine-based chemicals.",
+ "bse_code": "503806",
+ "nse_symbol": "SRF",
+ "website": "http://www.srf.com",
+ "ratios": {
+  "Market Cap": 73424.0,
+  "Current Price": 2477.0,
+  "High / Low": [
+   3143.0,
+   2177.0
+  ],
+  "Stock P/E": 31.1,
+  "Book Value": 516.0,
+  "Dividend Yield": 0.36,
+  "ROCE": 14.6,
+  "ROE": 14.3,
+  "Face Value": 10.0
+ },
+ "quarters": {
+  "periods": [
+   "Sep 2023",
+   "Dec 2023",
+   "Mar 2024",
+   "Jun 2024",
+   "Sep 2024",
+   "Dec 2024",
+   "Mar 2025",
+   "Jun 2025",
+   "Sep 2025",
+   "Dec 2025",
+   "Mar 2026",
+   "Jun 2026",
+   "Sep 2026"
+  ],
+  "rows": {
+   "Sales": [
+    3177.0,
+    3053.0,
+    3570.0,
+    3464.0,
+    3424.0,
+    3491.0,
+    4313.0,
+    3819.0,
+    3640.0,
+    3713.0,
+    4615.0,
+    5033.0,
+    4904.0
+   ],
+   "YoY Sales growth": [
+    -15.0,
+    -12.0,
+    -6.0,
+    4.0,
+    8.0,
+    14.0,
+    21.0,
+    10.0,
+    6.0,
+    6.0,
+    7.0,
+    32.0,
+    35.0
+   ],
+   "Expenses": [
+    2551.0,
+    2487.0,
+    2874.0,
+    2861.0,
+    2886.0,
+    2872.0,
+    3356.0,
+    2989.0,
+    2866.0,
+    2933.0,
+    3589.0,
+    3797.0,
+    3958.0
+   ],
+   "Operating Profit": [
+    626.0,
+    566.0,
+    696.0,
+    603.0,
+    538.0,
+    620.0,
+    957.0,
+    830.0,
+    774.0,
+    780.0,
+    1026.0,
+    1237.0,
+    946.0
+   ],
+   "OPM %": [
+    20.0,
+    19.0,
+    19.0,
+    17.0,
+    16.0,
+    18.0,
+    22.0,
+    22.0,
+    21.0,
+    21.0,
+    22.0,
+    25.0,
+    19.0
+   ],
+   "Other Income": [
+    29.0,
+    19.0,
+    23.0,
+    25.0,
+    33.0,
+    40.0,
+    34.0,
+    29.0,
+    26.0,
+    -46.0,
+    13.0,
+    34.0,
+    25.0
+   ],
+   "Interest": [
+    79.0,
+    67.0,
+    90.0,
+    97.0,
+    94.0,
+    96.0,
+    89.0,
+    80.0,
+    71.0,
+    66.0,
+    62.0,
+    69.0,
+    71.0
+   ],
+   "Depreciation": [
+    161.0,
+    169.0,
+    186.0,
+    188.0,
+    194.0,
+    194.0,
+    195.0,
+    203.0,
+    212.0,
+    217.0,
+    220.0,
+    223.0,
+    229.0
+   ],
+   "Profit before tax": [
+    415.0,
+    348.0,
+    443.0,
+    344.0,
+    284.0,
+    369.0,
+    707.0,
+    576.0,
+    517.0,
+    452.0,
+    757.0,
+    979.0,
+    671.0
+   ],
+   "Tax %": [
+    27.0,
+    27.0,
+    5.0,
+    27.0,
+    29.0,
+    26.0,
+    26.0,
+    25.0,
+    25.0,
+    4.0,
+    23.0,
+    22.0,
+    24.0
+   ],
+   "Net Profit": [
+    301.0,
+    253.0,
+    422.0,
+    252.0,
+    201.0,
+    271.0,
+    526.0,
+    432.0,
+    388.0,
+    433.0,
+    582.0,
+    759.0,
+    509.0
+   ],
+   "EPS in Rs": [
+    10.15,
+    8.55,
+    14.24,
+    8.51,
+    6.79,
+    9.14,
+    17.75,
+    14.58,
+    13.1,
+    14.6,
+    19.63,
+    25.6,
+    17.18
+   ]
+  },
+  "pdfs": [
+   "https://www.screener.in/company/source/quarter/3108/9/2023/",
+   "https://www.screener.in/company/source/quarter/3108/12/2023/",
+   "https://www.screener.in/company/source/quarter/3108/3/2024/",
+   "https://www.screener.in/company/source/quarter/3108/6/2024/",
+   "https://www.screener.in/company/source/quarter/3108/9/2024/",
+   "https://www.screener.in/company/source/quarter/3108/12/2024/",
+   "https://www.screener.in/company/source/quarter/3108/3/2025/",
+   "https://www.screener.in/company/source/quarter/3108/6/2025/",
+   "https://www.screener.in/company/source/quarter/3108/9/2025/",
+   "https://www.screener.in/company/source/quarter/3108/12/2025/",
+   "https://www.screener.in/company/source/quarter/3108/3/2026/",
+   "https://www.screener.in/company/source/quarter/3108/6/2026/",
+   "https://www.screener.in/company/source/quarter/3108/9/2026/"
+  ]
+ },
+ "annual": {
+  "periods": [
+   "Mar 2015",
+   "Mar 2016",
+   "Mar 2017",
+   "Mar 2018",
+   "Mar 2019",
+   "Mar 2020",
+   "Mar 2021",
+   "Mar 2022",
+   "Mar 2023",
+   "Mar 2024",
+   "Mar 2025",
+   "Mar 2026",
+   "TTM"
+  ],
+  "rows": {
+   "Sales": [
+    4540.0,
+    4593.0,
+    4822.0,
+    5589.0,
+    7100.0,
+    7209.0,
+    8400.0,
+    12434.0,
+    14870.0,
+    13139.0,
+    14693.0,
+    15787.0,
+    18265.0
+   ],
+   "Sales growth": [
+    13.0,
+    1.0,
+    5.0,
+    16.0,
+    27.0,
+    2.0,
+    17.0,
+    48.0,
+    20.0,
+    -12.0,
+    12.0,
+    7.0,
+    20.0
+   ],
+   "Expenses": [
+    3822.0,
+    3630.0,
+    3852.0,
+    4683.0,
+    5803.0,
+    5754.0,
+    6267.0,
+    9330.0,
+    11341.0,
+    10554.0,
+    11975.0,
+    12377.0,
+    14277.0
+   ],
+   "Operating Profit": [
+    717.0,
+    963.0,
+    969.0,
+    906.0,
+    1297.0,
+    1455.0,
+    2133.0,
+    3103.0,
+    3529.0,
+    2584.0,
+    2718.0,
+    3410.0,
+    3988.0
+   ],
+   "OPM %": [
+    16.0,
+    21.0,
+    20.0,
+    16.0,
+    18.0,
+    20.0,
+    25.0,
+    25.0,
+    24.0,
+    20.0,
+    18.0,
+    22.0,
+    22.0
+   ],
+   "Other Income": [
+    65.0,
+    28.0,
+    73.0,
+    115.0,
+    78.0,
+    152.0,
+    66.0,
+    116.0,
+    75.0,
+    83.0,
+    133.0,
+    22.0,
+    26.0
+   ],
+   "Interest": [
+    138.0,
+    130.0,
+    102.0,
+    124.0,
+    198.0,
+    201.0,
+    134.0,
+    116.0,
+    205.0,
+    302.0,
+    376.0,
+    278.0,
+    267.0
+   ],
+   "Depreciation": [
+    245.0,
+    275.0,
+    283.0,
+    316.0,
+    358.0,
+    389.0,
+    453.0,
+    517.0,
+    575.0,
+    673.0,
+    772.0,
+    852.0,
+    888.0
+   ],
+   "Profit before tax": [
+    399.0,
+    585.0,
+    657.0,
+    582.0,
+    818.0,
+    1018.0,
+    1612.0,
+    2586.0,
+    2824.0,
+    1692.0,
+    1704.0,
+    2302.0,
+    2859.0
+   ],
+   "Tax %": [
+    24.0,
+    27.0,
+    22.0,
+    21.0,
+    22.0,
+    -0.0,
+    26.0,
+    27.0,
+    23.0,
+    21.0,
+    27.0,
+    20.0,
+    null
+   ],
+   "Net Profit": [
+    303.0,
+    430.0,
+    515.0,
+    462.0,
+    642.0,
+    1019.0,
+    1198.0,
+    1889.0,
+    2162.0,
+    1336.0,
+    1251.0,
+    1835.0,
+    2283.0
+   ],
+   "EPS in Rs": [
+    10.55,
+    14.97,
+    17.94,
+    16.08,
+    22.33,
+    35.46,
+    40.44,
+    63.72,
+    72.95,
+    45.06,
+    42.2,
+    61.91,
+    77.01
+   ],
+   "Dividend Payout %": [
+    19.0,
+    14.0,
+    14.0,
+    15.0,
+    11.0,
+    8.0,
+    12.0,
+    26.0,
+    10.0,
+    16.0,
+    17.0,
+    15.0,
+    null
+   ]
+  },
+  "pdfs": []
+ },
+ "balance_sheet": {
+  "periods": [
+   "Mar 2015",
+   "Mar 2016",
+   "Mar 2017",
+   "Mar 2018",
+   "Mar 2019",
+   "Mar 2020",
+   "Mar 2021",
+   "Mar 2022",
+   "Mar 2023",
+   "Mar 2024",
+   "Mar 2025",
+   "Mar 2026",
+   "Sep 2026"
+  ],
+  "rows": {
+   "Equity Capital": [
+    58.0,
+    58.0,
+    58.0,
+    58.0,
+    58.0,
+    58.0,
+    60.0,
+    297.0,
+    297.0,
+    297.0,
+    297.0,
+    297.0,
+    297.0
+   ],
+   "Reserves": [
+    2238.0,
+    2705.0,
+    3124.0,
+    3506.0,
+    4071.0,
+    4875.0,
+    6796.0,
+    8268.0,
+    10030.0,
+    11182.0,
+    12329.0,
+    13745.0,
+    15007.0
+   ],
+   "Borrowings": [
+    2435.0,
+    2515.0,
+    2396.0,
+    3142.0,
+    3730.0,
+    4135.0,
+    3469.0,
+    3655.0,
+    4478.0,
+    5031.0,
+    4726.0,
+    5083.0,
+    5375.0
+   ],
+   "Other Liabilities": [
+    1152.0,
+    1146.0,
+    1389.0,
+    1657.0,
+    2028.0,
+    1795.0,
+    2586.0,
+    3544.0,
+    3931.0,
+    3945.0,
+    4169.0,
+    4971.0,
+    5157.0
+   ],
+   "Total Liabilities": [
+    5883.0,
+    6424.0,
+    6968.0,
+    8363.0,
+    9888.0,
+    10862.0,
+    12911.0,
+    15765.0,
+    18736.0,
+    20454.0,
+    21521.0,
+    24097.0,
+    25837.0
+   ],
+   "Fixed Assets": [
+    3922.0,
+    4113.0,
+    4405.0,
+    5122.0,
+    5609.0,
+    6368.0,
+    7827.0,
+    8425.0,
+    10050.0,
+    13242.0,
+    13720.0,
+    13926.0,
+    14543.0
+   ],
+   "CWIP": [
+    104.0,
+    117.0,
+    259.0,
+    559.0,
+    754.0,
+    1393.0,
+    772.0,
+    1672.0,
+    2406.0,
+    805.0,
+    811.0,
+    1889.0,
+    2122.0
+   ],
+   "Investments": [
+    94.0,
+    165.0,
+    196.0,
+    122.0,
+    101.0,
+    203.0,
+    417.0,
+    321.0,
+    494.0,
+    527.0,
+    827.0,
+    687.0,
+    601.0
+   ],
+   "Other Assets": [
+    1762.0,
+    2029.0,
+    2109.0,
+    2561.0,
+    3424.0,
+    2899.0,
+    3895.0,
+    5347.0,
+    5786.0,
+    5881.0,
+    6163.0,
+    7594.0,
+    8571.0
+   ],
+   "Total Assets": [
+    5883.0,
+    6424.0,
+    6968.0,
+    8363.0,
+    9888.0,
+    10862.0,
+    12911.0,
+    15765.0,
+    18736.0,
+    20454.0,
+    21521.0,
+    24097.0,
+    25837.0
+   ]
+  },
+  "pdfs": []
+ },
+ "cash_flow": {
+  "periods": [
+   "Mar 2015",
+   "Mar 2016",
+   "Mar 2017",
+   "Mar 2018",
+   "Mar 2019",
+   "Mar 2020",
+   "Mar 2021",
+   "Mar 2022",
+   "Mar 2023",
+   "Mar 2024",
+   "Mar 2025",
+   "Mar 2026"
+  ],
+  "rows": {
+   "Cash from Operating Activity": [
+    542.0,
+    1090.0,
+    645.0,
+    678.0,
+    896.0,
+    1304.0,
+    1772.0,
+    2106.0,
+    2902.0,
+    2094.0,
+    2487.0,
+    2554.0
+   ],
+   "Cash from Investing Activity": [
+    -500.0,
+    -667.0,
+    -613.0,
+    -1174.0,
+    -1039.0,
+    -1179.0,
+    -1499.0,
+    -1586.0,
+    -2964.0,
+    -2231.0,
+    -1482.0,
+    -1589.0
+   ],
+   "Cash from Financing Activity": [
+    -18.0,
+    -182.0,
+    -284.0,
+    495.0,
+    246.0,
+    -199.0,
+    -251.0,
+    -207.0,
+    220.0,
+    -72.0,
+    -1071.0,
+    -708.0
+   ],
+   "Net Cash Flow": [
+    24.0,
+    241.0,
+    -252.0,
+    -1.0,
+    103.0,
+    -73.0,
+    22.0,
+    312.0,
+    158.0,
+    -209.0,
+    -65.0,
+    256.0
+   ],
+   "Free Cash Flow": [
+    58.0,
+    511.0,
+    5.0,
+    -605.0,
+    -157.0,
+    -69.0,
+    567.0,
+    289.0,
+    50.0,
+    -108.0,
+    1265.0,
+    747.0
+   ],
+   "CFO/EBITDA Share of operating profit converting into cash: CFO (before tax) / Operating Profit": [
+    87.0,
+    125.0,
+    79.0,
+    88.0,
+    81.0,
+    99.0,
+    95.0,
+    81.0,
+    97.0,
+    96.0,
+    104.0,
+    90.0
+   ]
+  },
+  "pdfs": []
+ },
+ "efficiency": {
+  "periods": [
+   "Mar 2015",
+   "Mar 2016",
+   "Mar 2017",
+   "Mar 2018",
+   "Mar 2019",
+   "Mar 2020",
+   "Mar 2021",
+   "Mar 2022",
+   "Mar 2023",
+   "Mar 2024",
+   "Mar 2025",
+   "Mar 2026"
+  ],
+  "rows": {
+   "Debtor Days": [
+    49.0,
+    41.0,
+    50.0,
+    44.0,
+    53.0,
+    45.0,
+    55.0,
+    53.0,
+    44.0,
+    54.0,
+    54.0,
+    59.0
+   ],
+   "Inventory Days": [
+    110.0,
+    105.0,
+    126.0,
+    115.0,
+    113.0,
+    119.0,
+    133.0,
+    129.0,
+    112.0,
+    127.0,
+    111.0,
+    131.0
+   ],
+   "Days Payable": [
+    83.0,
+    112.0,
+    122.0,
+    126.0,
+    127.0,
+    110.0,
+    144.0,
+    126.0,
+    110.0,
+    120.0,
+    111.0,
+    121.0
+   ],
+   "Cash Conversion Cycle": [
+    75.0,
+    34.0,
+    54.0,
+    34.0,
+    38.0,
+    54.0,
+    45.0,
+    55.0,
+    46.0,
+    61.0,
+    55.0,
+    69.0
+   ],
+   "Working Capital Days": [
+    10.0,
+    1.0,
+    -15.0,
+    -21.0,
+    -17.0,
+    -37.0,
+    -14.0,
+    1.0,
+    -6.0,
+    -18.0,
+    -9.0,
+    -12.0
+   ],
+   "ROCE %": [
+    11.0,
+    14.0,
+    14.0,
+    11.0,
+    14.0,
+    14.0,
+    18.0,
+    24.0,
+    22.0,
+    13.0,
+    12.0,
+    15.0
+   ]
+  },
+  "pdfs": []
+ },
+ "shareholding": {
+  "periods": [
+   "Dec 2023",
+   "Mar 2024",
+   "Jun 2024",
+   "Sep 2024",
+   "Dec 2024",
+   "Mar 2025",
+   "Jun 2025",
+   "Sep 2025",
+   "Dec 2025",
+   "Mar 2026",
+   "Jun 2026",
+   "Sep 2026"
+  ],
+  "rows": {
+   "Promoters": [
+    50.53,
+    50.31,
+    50.26,
+    50.26,
+    50.26,
+    50.26,
+    50.26,
+    50.26,
+    50.26,
+    50.26,
+    50.26,
+    50.26
+   ],
+   "FIIs": [
+    19.6,
+    19.09,
+    18.76,
+    18.3,
+    18.37,
+    18.28,
+    18.24,
+    17.98,
+    17.48,
+    16.67,
+    15.45,
+    15.2
+   ],
+   "DIIs": [
+    14.51,
+    15.97,
+    16.57,
+    17.76,
+    17.78,
+    18.42,
+    18.85,
+    19.53,
+    20.18,
+    21.17,
+    22.44,
+    22.5
+   ],
+   "Government": [
+    0.0,
+    0.0,
+    0.0,
+    0.04,
+    0.04,
+    0.04,
+    0.04,
+    0.04,
+    0.04,
+    0.04,
+    0.04,
+    0.04
+   ],
+   "Public": [
+    15.36,
+    14.66,
+    14.44,
+    13.66,
+    13.55,
+    13.01,
+    12.61,
+    12.2,
+    12.05,
+    11.87,
+    11.81,
+    12.0
+   ],
+   "Others": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.01,
+    0.01,
+    0.0
+   ],
+   "No. of Shareholders": [
+    259457.0,
+    234321.0,
+    226939.0,
+    211749.0,
+    211698.0,
+    199548.0,
+    192618.0,
+    191991.0,
+    181280.0,
+    180341.0,
+    177423.0,
+    184708.0
+   ]
+  },
+  "pdfs": []
+ },
+ "documents": {
+  "announcements": [
+   {
+    "title": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "detail": "Document contains only company letterhead repeats, with no substantive announcement.",
+    "ts": "2026-11-14T11:24:06+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=A2B35342_24AF_4D94_8E8E_0979CE9813BD_112402.pdf"
+   },
+   {
+    "title": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "detail": "13 Nov",
+    "ts": "2026-11-13T11:15:07+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=DE6E1DE9_DD31_442B_BC7E_2E9C215B7BAD_111502.pdf"
+   },
+   {
+    "title": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "detail": "Document contains only repeated company headers; no announcement details.",
+    "ts": "2026-11-11T13:08:33+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=469C1B94_9D51_4A59_AB80_C6998F68C3FC_130826.pdf"
+   },
+   {
+    "title": "Change In Corporate Office Address Of Kfin Technologies Limited, Registrar And Share Transfer Agent (RTA) Of The Company.",
+    "detail": "KFin Technologies, SRF\u2019s RTA, changes corporate office address effective December 1, 2026.",
+    "ts": "2026-11-05T16:33:51+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cc9e3b7c-587d-43e3-a940-c2550cf9f234.pdf"
+   },
+   {
+    "title": "Disclosure Under Regulation 30 Of SEBI (LODR) Regulations, 2015",
+    "detail": "Uttarakhand tax officer imposed \u20b912.77 lakh penalty over Delivery Challan and e-way bill mismatch.",
+    "ts": "2026-11-05T13:07:37+05:30",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55173153-1fa0-40c4-acbb-6ec58db8fc4a.pdf"
+   }
+  ],
+  "annual_reports": [
+   {
+    "year": 2026,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4a7644aa-f953-438c-a41a-8827cff676f5.pdf"
+   },
+   {
+    "year": 2025,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/abe86126-5672-4dba-9a6d-b0f0dfe75862.pdf"
+   },
+   {
+    "year": 2024,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fec21c73-4ecf-4985-8fea-3c68663e958d.pdf"
+   },
+   {
+    "year": 2023,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/467eed3a-3fcf-4a98-90d1-92577a9bde3d.pdf"
+   },
+   {
+    "year": 2022,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/503806/73315503806.pdf"
+   },
+   {
+    "year": 2021,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/503806/69368503806.pdf"
+   },
+   {
+    "year": 2020,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/503806/5038060320.pdf"
+   },
+   {
+    "year": 2019,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/503806/5038060319.pdf"
+   },
+   {
+    "year": 2018,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/503806/5038060318.pdf"
+   },
+   {
+    "year": 2017,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/503806/5038060317.pdf"
+   },
+   {
+    "year": 2016,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/503806/5038060316.pdf"
+   },
+   {
+    "year": 2015,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/503806/5038060315.pdf"
+   },
+   {
+    "year": 2014,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/503806/5038060314.pdf"
+   },
+   {
+    "year": 2013,
+    "url": "https://archives.nseindia.com/annual_reports/AR_475_SRF_2012_2013_12072013112719.zip"
+   },
+   {
+    "year": 2013,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/503806/5038060313.pdf"
+   }
+  ],
+  "concalls": [
+   {
+    "period": "Oct 2026",
+    "transcript": "https://www.srf.com/storage/files/earning-calls/1793166072.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4bee2b6e-7ffa-4632-a371-ecd145b00ffa.pdf"
+   },
+   {
+    "period": "Jul 2026",
+    "transcript": "https://www.srf.com/storage/files/earning-calls/1785301598.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d0a3bb3-5ead-49eb-9ca5-8b3a978d3476.pdf"
+   },
+   {
+    "period": "May 2026",
+    "transcript": "https://www.srf.com/storage/files/earning-calls/1778580319.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=110be928-8d59-42e2-9dd7-90c8fab04597.pdf"
+   },
+   {
+    "period": "Jan 2026",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=efbca81c-728d-4a01-9749-a606f65a619c.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=355a0d1a-7b07-4f1b-892b-59dd9f0bf1f3.pdf"
+   },
+   {
+    "period": "Nov 2025",
+    "transcript": "https://www.srf.com/wp-content/uploads/2025/11/SRF-Limited-Q2-H1-FY26-Concall-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=720e915d-3fc3-40a7-a9ea-0f60e4e0c987.pdf"
+   },
+   {
+    "period": "Sep 2025",
+    "transcript": "https://www.srf.com/wp-content/uploads/2025/09/SRF-Limited-Update-on-Refrigerant-Segment-Concall-Transcript_Final.pdf",
+    "ppt": null
+   },
+   {
+    "period": "Jul 2025",
+    "transcript": "https://www.srf.com/wp-content/uploads/2025/07/SRF-Limited-Q1-FY26-Concall-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c501aa78-cb1b-4108-9dff-852146ed3765.pdf"
+   },
+   {
+    "period": "May 2025",
+    "transcript": "https://www.srf.com/wp-content/uploads/2025/05/SRF-Limited-Q4-FY25-Concall-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=28c2a788-6649-4403-8180-f9946a234387.pdf"
+   },
+   {
+    "period": "Jan 2025",
+    "transcript": "https://www.srf.com/wp-content/uploads/2025/02/SRF-Limited-Q3-FY25-Concall-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8b40e494-5071-45a0-a4b0-77025c95b565.pdf"
+   },
+   {
+    "period": "Oct 2024",
+    "transcript": "https://www.srf.com/wp-content/uploads/2024/10/SRF-Limited-Q2-H1-FY25-Concall-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4783c94f-6c5c-49f1-9346-88f853cd2964.pdf"
+   },
+   {
+    "period": "Jul 2024",
+    "transcript": "https://www.srf.com/wp-content/uploads/2024/07/SRF-Limited-Q1-FY25-Concall-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0d1a9d8e-cd02-457b-935a-8811d9201886.pdf"
+   },
+   {
+    "period": "May 2024",
+    "transcript": "https://www.srf.com/wp-content/uploads/2024/05/SRF-Limited-Q4-FY24-Con.pdf",
+    "ppt": null
+   },
+   {
+    "period": "May 2024",
+    "transcript": "https://www.srf.com/wpcontent/uploads/2024/05/SRF-Limited-Q4-FY24-Con.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=29255c51-3547-4e5e-a6be-d2287e7a6c39.pdf"
+   },
+   {
+    "period": "Jan 2024",
+    "transcript": "https://www.srf.com/wp-content/uploads/2024/02/SRF-Limited-Q3-9M-FY24-Concall-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8773daef-d081-410b-9cc6-e60078eddafb.pdf"
+   },
+   {
+    "period": "Nov 2023",
+    "transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e91c6087-39fa-4f2c-a024-3a417bd7ce85.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5b61b8f1-1c71-45d8-b7aa-880245e61ebe.pdf"
+   },
+   {
+    "period": "Jul 2023",
+    "transcript": "https://www.srf.com/wp-content/uploads/2023/07/SRF-Limited-Q1-FY24-Concall-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f13f2010-b9a8-449c-8a9d-2221d80bb0f6.pdf"
+   },
+   {
+    "period": "May 2023",
+    "transcript": "https://www.srf.com/wp-content/uploads/2023/05/SRF-Limited-Q4-FY23-Concall-Transcript_Clean.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5db729d0-ae02-4967-bc55-4be2d8a9a90e.pdf"
+   },
+   {
+    "period": "Jan 2023",
+    "transcript": "https://www.srf.com/wp-content/uploads/2023/02/SRF-Limited-Q3-9M-FY23-Concall-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=31c6c7e6-261c-4da4-816c-d866ff920ccd.pdf"
+   },
+   {
+    "period": "Nov 2022",
+    "transcript": "https://www.srf.com/wp-content/uploads/2022/11/SRF-Limited-Q2-H1-FY23-Concall-Transcript.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f115f901-01b9-48b7-b7b5-da2a295bd224.pdf"
+   },
+   {
+    "period": "Jul 2022",
+    "transcript": "https://www.srf.com/wp-content/uploads/2022/07/SRF-Limited-Q1-FY23-Concall-Transcript-22June2022.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=71613106-f4dd-420c-a1ca-09858882ced3.pdf"
+   },
+   {
+    "period": "May 2022",
+    "transcript": "https://www.srf.com/wp-content/uploads/2022/05/SRF-Limited-Q4-FY22-Concall-Transcript-002.pdf",
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=78b20c65-48ce-4bdf-b82f-1d079c5dd064.pdf"
+   },
+   {
+    "period": "Jan 2022",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=87400876-24bf-4f54-aa09-4122962a68bc.pdf"
+   },
+   {
+    "period": "Oct 2021",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6c5ad0c4-057c-4999-b4b8-b331a7169e56.pdf"
+   },
+   {
+    "period": "Jul 2021",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b8bf0659-7969-453c-9001-9cd64ea5de19.pdf"
+   },
+   {
+    "period": "May 2021",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0bf9ff19-e3c0-44fb-932d-b72893ae7f0e.pdf"
+   },
+   {
+    "period": "Jan 2021",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=00ca1954-ef99-4269-bbb7-c9ae56ecf5a6.pdf"
+   },
+   {
+    "period": "Nov 2020",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5dda7ead-67d9-4033-ad0c-60430af153cc.pdf"
+   },
+   {
+    "period": "Jul 2020",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=149b370e-fccc-4558-8b5f-6aad3be0d257.pdf"
+   },
+   {
+    "period": "Jun 2020",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9e0ed456-15ce-4c34-8047-2e1fed4f834c.pdf"
+   },
+   {
+    "period": "Feb 2020",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e3d525f8-d7a5-45ed-951b-5cb54fd140de.pdf"
+   },
+   {
+    "period": "Nov 2019",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8b1f172e-527c-4541-bc44-f3ac86fbce7f.pdf"
+   },
+   {
+    "period": "Aug 2019",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c2cdaf55-ac4f-42d9-a0a7-a4a005b03b07.pdf"
+   },
+   {
+    "period": "May 2019",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=605af055-6bdb-4ef1-b2b1-5eba938a3feb.pdf"
+   },
+   {
+    "period": "Feb 2019",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=184e525f-b203-4c2f-8634-cf65231e47bc.pdf"
+   },
+   {
+    "period": "Feb 2019",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3ee577cf-0d54-4329-92a2-144d37285c82.pdf"
+   },
+   {
+    "period": "Nov 2018",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5f4017b0-a226-4288-858e-da0f947fec05.pdf"
+   },
+   {
+    "period": "Aug 2018",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2b6fd192-b3d9-408f-a0f4-ad571a7f99d2.pdf"
+   },
+   {
+    "period": "May 2018",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bae63da9-7a0e-4ffb-bbd4-77295d707173.pdf"
+   },
+   {
+    "period": "Feb 2018",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=413c11af-d878-47b5-b364-7c80e890ae89.pdf"
+   },
+   {
+    "period": "Nov 2017",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4bc6a1f9-3261-4740-ae64-df48aedd01c5.pdf"
+   },
+   {
+    "period": "Aug 2017",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e39e6730-853d-45bf-af1f-1d41c2325ab5.pdf"
+   },
+   {
+    "period": "May 2017",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f126e87f-21a7-40d4-b6a1-145bf0730682.pdf"
+   },
+   {
+    "period": "Nov 2016",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9A496AB4_2A33_497A_BB0E_0444D535183A_164447.pdf"
+   },
+   {
+    "period": "Aug 2016",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9BC8C879_443F_4374_9CCA_C1EBB967EEB5_111302.pdf"
+   },
+   {
+    "period": "Feb 2016",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7D90BD74_DE37_4A86_9D39_326698698796_183301.pdf"
+   },
+   {
+    "period": "Nov 2015",
+    "transcript": null,
+    "ppt": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=61381D7D_8D39_46B1_8337_BE71830435BB_144417.pdf"
+   }
+  ]
+ }
+}
