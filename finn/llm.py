@@ -65,7 +65,7 @@ def complete(key: str, *, tier: str, system: str, user: str, schema: dict, max_t
         else:
             resp = client.messages.create(**params)
     except anthropic.RateLimitError:
-        return None
+        return None          # caller falls back to its rules-only path; next request retries
     except anthropic.APIStatusError:
         return None
     except anthropic.APIConnectionError:
@@ -75,7 +75,10 @@ def complete(key: str, *, tier: str, system: str, user: str, schema: dict, max_t
     text = next((b.text for b in resp.content if b.type == "text"), None)
     if text is None:
         return None
-    out = json.loads(text)
+    try:
+        out = json.loads(text)
+    except json.JSONDecodeError:
+        return None          # never let a malformed model reply break a research view
     usage = {"in": resp.usage.input_tokens, "out": resp.usage.output_tokens,
              "cache_read": getattr(resp.usage, "cache_read_input_tokens", 0)}
     put(key, out, producer=resp.model, prompt_hash=ph, usage=usage)

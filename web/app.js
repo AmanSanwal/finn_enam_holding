@@ -246,7 +246,8 @@
       }).filter((r) => r.n).sort((a, b) => b.n - a.n || b.c.tie - a.c.tie).slice(0, 5);
       if (res.length) {
         out.innerHTML = `<div class="thread" style="margin:0 0 8px"><div class="lbl">${ICON.net}From your network</div>${res.map(({ c, hits }) => {
-          const j = c.career_named.find((j) => hits.some((h) => (j.org_name + " " + j.role).toLowerCase().includes(h))) || c.career_named[c.career_named.length - 1];
+          const score = (j) => hits.filter((h) => (j.org_name + " " + j.role).toLowerCase().includes(h)).length;
+          const j = [...c.career_named].sort((a, b) => score(b) - score(a))[0];  // the job that matches the question best
           return `<div class="person-row" data-contact="${c.id}"><div class="avatar net">${initials(c.name)}</div><div><b>${esc(c.name)}</b><small>${esc(j.role)} · ${esc(j.org_name)} (${j.from}–${j.to || "now"})</small></div><div><div class="meter"><i style="width:${Math.round(c.tie * 100)}%"></i></div></div></div>`;
         }).join("")}</div>`;
         return;
